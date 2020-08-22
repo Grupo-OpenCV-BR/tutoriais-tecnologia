@@ -1,6 +1,6 @@
 # Tutoriais de Visão Computacional e Processamento de Imagens
 
-- Grupo de OpenCV Brasil (OpenCV Brasil)[https://t.me/opencvBrasil]
+-  (Grupo de OpenCV Brasil)[https://t.me/opencvBrasil]
 
 Programação em Geral.
 
@@ -8,16 +8,16 @@ Programação em Geral.
 
 Git e GitHub.
 
- -  Git e Github para iniciantes,  Willian Justen de Vasconcellos - [Git e Github para iniciantes](https://www.udemy.com/course/git-e-github-para-iniciantes/)
+- [Git e Github para iniciantes, Git e Github para iniciantes,  Willian Justen de Vasconcellos](https://www.udemy.com/course/git-e-github-para-iniciantes/)
 
- - Curso em Video, Gustavo Guanabara. -  [Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal Curso em Vídeo ] (https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+- [Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal,Curso em Video, Gustavo Guanabara](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 
 
 Guia rápido de estudo Visão computacional e processamento de imagens.
 
  -  Higia Labs, Andre Emidio. -  [Instalando OpenCV C++ no Windows](https://medium.com/higialabs/instalando-opencv-no-windows-4ac77e334d89)
 
-# Processamento de imagens, visão matemática.
+# Processamento de imagens [visão matemática].
 
 - [Computação Gráfica, UNIVESP](https://www.youtube.com/watch?v=x7yTi91Sz_Q&list=PLxI8Can9yAHeyMkv9I9msYWrC1YPBJW0p)
 
@@ -35,4 +35,4 @@ Documentação Oficial.
 
 Universidades Estrangeiras.
 
-- Stanford University School of Engineering [Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)] (https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
+-  [Stanford University School of Engineering |Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
