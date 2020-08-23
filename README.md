@@ -18,7 +18,7 @@
 - [Processamento de Imagens, Hallison Paz](https://www.youtube.com/watch?v=T9V_axU6jU8&list=PL5TJqBvpXQv54i_HWjd7s70vbP4Is7sK_)
 - [Learn OpenCV, Satya Mallick](https://www.learnopencv.com/)
 - [PyImageSearch, Adrian Rosebrock,](https://www.pyimagesearch.com/)
-- 
+
 # Tutoriais Importantes.
 
  -  Higia Labs, Andre Emidio. -  [Instalando OpenCV C++ no Windows](https://medium.com/higialabs/instalando-opencv-no-windows-4ac77e334d89)
@@ -39,7 +39,7 @@
 - [Iniciação Científica, IMPA](https://www.youtube.com/watch?v=u40Opm9TZxU&list=RDCMUCpuZUX_IyMPXiqlkwrxCbNA&start_radio=1&t=3998)
 - [Curso Online - Processamento de Imagens (2020), IMPA](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj)
 - [Introduction to Computer Vision, Udacity](https://www.youtube.com/watch?v=2S4nn7S8Hk4&list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm)
-  
+
 # Estatistica
 
 - [EstaTiDados](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw)
@@ -54,7 +54,7 @@
  -  [Pytorch](https://pytorch.org/docs/stable/index.html)
  -  [Caffe](https://caffe.berkeleyvision.org/)
  -  [Theano](http://deeplearning.net/software/theano/)
- -  
+
 # Universidades Estrangeiras.
 
 -  [Stanford University School of Engineering |Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
