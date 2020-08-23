@@ -57,7 +57,6 @@
 - [Think Stats - Allen B. Downey](https://greenteapress.com/wp/think-stats-2e/)
 - [Think Bayes - Allen B. Downey](https://greenteapress.com/wp/think-bayes/)
 
-
 # Machine Learning
 
 - [Machine Learning](https://www.coursera.org/learn/machine-learning)
@@ -79,6 +78,7 @@
 - [Introduction to Deep Learning, MIT 6.S191](http://introtodeeplearning.com/)
 
 ## Books
+
 - [Deep Learning, Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 - [Deep Learning Book, Português](http://deeplearningbook.com.br/)
   
