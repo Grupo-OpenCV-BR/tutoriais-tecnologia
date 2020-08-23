@@ -42,7 +42,7 @@
 - [Curso Online - Processamento de Imagens (2020), IMPA](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj)
 - [Introduction to Computer Vision, Udacity](https://www.youtube.com/watch?v=2S4nn7S8Hk4&list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm)
 
-# Estatistica
+# Estatística
 
 - [EstaTiDados](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw)
 - [Outspoken Market](https://www.youtube.com/user/aitechinvest)
@@ -62,7 +62,9 @@
 - [DEEP LEARNING EM PORTUGUÊS, Sandeco](https://www.youtube.com/watch?v=ei5F76hF2bg&list=PLbmt8d_ueDMVUVlw9VZSdgAIi6W3u-7Zg)
 - [Introduction to Deep Learning, MIT 6.S191](http://introtodeeplearning.com/)
 
+
 ## Books
+
 - [Deep Learning, Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 - [Deep Learning Book, Português](http://deeplearningbook.com.br/)
   
@@ -70,10 +72,15 @@
 
 - [Cursos de Deep Learning](https://pt.coursera.org/courses?query=deep%20learning)
 
+## Referências interessantes
+
+
+
 # Documentação Oficial.
 
  -  [OpenCV 4.4.0](https://docs.opencv.org/4.4.0/)
  -  [Python 3.8](https://docs.python.org/pt-br/3/)
+ -  [Gluon CV](https://gluon-cv.mxnet.io/)
  -  [Point Cloud Library PCL 1.11](https://pointclouds.org/documentation/)
  -  [Tensor Flow](https://www.tensorflow.org/?hl=pt-br)
  -  [Pytorch](https://pytorch.org/docs/stable/index.html)
@@ -93,6 +100,27 @@
 # Inteligência Artificial
 
 - [Inteligência Artificial em saúde: o uso de machine learning, Alexandre Chiavegatto](https://www.youtube.com/playlist?list=PLAudUnJeNg4tvUFZ8tXQDoAkFAASQzOHm&disable_polymer=true)
+
+
+
+# Datasets
+
+- [Kaggle - Computer Vision ](https://www.kaggle.com/search?q=computer+vision+in%3Adatasets)
+- [ImageNet](http://image-net.org/download)
+- [UC Irvine](https://archive.ics.uci.edu/ml/index.php)
+- [Visual Data](https://www.visualdata.io/discovery)
+- [HoliCity: A City-Scale Data Platform for Learning Holistic 3D Structures](https://people.eecs.berkeley.edu/~zyc/holicity/)
+- [Machine Learning and AI: Find Datasets](https://guides.library.cmu.edu/machine-learning/datasets)
+- [MNIST](http://yann.lecun.com/exdb/mnist/)
+- [xView](http://xviewdataset.org/#dataset)
+- [Kinetics, Deepmind](https://deepmind.com/research/open-source/kinetics)
+- [Open Images Dataset](https://ai.googleblog.com/2016/09/introducing-open-images-dataset.html)
+- [The Cityscapes Dataset](https://www.cityscapes-dataset.com/)
+- [IMDB-WIKI](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
+- [Color Names](https://github.com/codebrainz/color-names/blob/master/output/colors.csv)
+- [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+
+
 
 # Canais Interessantes
 
