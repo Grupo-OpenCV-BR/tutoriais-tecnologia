@@ -24,7 +24,7 @@
  -  Higia Labs, Andre Emidio. -  [Instalando OpenCV C++ no Windows](https://medium.com/higialabs/instalando-opencv-no-windows-4ac77e334d89)
  -  Carvalho Natalia - [Instalando a OpenCV C++ no Ubuntu](https://medium.com/@carvalho.natalia03/instalando-a-opencv-c-no-linux-98d7fc71e996)
 
-# Projetos Hello World
+# Projetos "Hello World"
 
 - [ ] Identificação de cor
 - [ ] Capa da invisibilidade
@@ -33,7 +33,7 @@
 - [ ] Classificação de Objetos
 - [ ] Rastreamento de Objetos
 
-- [Referencia, @Clalloures](https://github.com/Clalloures/TUDO-Visao-Computacional)
+- [Referência, @Clalloures](https://github.com/Clalloures/TUDO-Visao-Computacional)
 
 # Processamento de imagens [visão matemática].
 
