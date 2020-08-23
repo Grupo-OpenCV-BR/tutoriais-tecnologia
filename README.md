@@ -19,6 +19,11 @@
 - [Learn OpenCV, Satya Mallick](https://www.learnopencv.com/)
 - [PyImageSearch, Adrian Rosebrock,](https://www.pyimagesearch.com/)
 
+## Books
+
+- [Computer Vision: Theory and Application - Rick Szeliski](http://szeliski.org/Book/)
+- [Multiple View Geometry in Computer Vision - Richard Hartley and Andrew Zisserman](http://www.robots.ox.ac.uk/~vgg/hzbook/)
+
 # Tutoriais Importantes.
 
  -  Higia Labs, Andre Emidio. -  [Instalando OpenCV C++ no Windows](https://medium.com/higialabs/instalando-opencv-no-windows-4ac77e334d89)
@@ -47,6 +52,11 @@
 - [EstaTiDados](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw)
 - [Outspoken Market](https://www.youtube.com/user/aitechinvest)
 
+## Books
+
+- [Think Stats - Allen B. Downey](https://greenteapress.com/wp/think-stats-2e/)
+- [Think Bayes - Allen B. Downey](https://greenteapress.com/wp/think-bayes/)
+
 
 # Machine Learning
 
@@ -56,6 +66,12 @@
 
 - [Programa de cursos integrados Matemática para aprendizagem automática](https://pt.coursera.org/specializations/mathematics-machine-learning)
 
+## Books
+
+- [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Understanding Machine Learning - Shai Shalev-Shwartz and Shai Ben-David](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
+- [Data Mining and Machine Learning - Mohammed J. Zaki, Wagner Meira, Jr.](https://dataminingbook.info/book_html/)
+- [Machine Learning and Big Data - Kareem Alkaseer](http://www.kareemalkaseer.com/books/ml/)
 
 # Deep Learning
 
