@@ -33,6 +33,8 @@
 - [ ] Classificação de Objetos
 - [ ] Rastreamento de Objetos
 
+- [Referencia, @Clalloures](https://github.com/Clalloures/TUDO-Visao-Computacional)
+
 # Processamento de imagens [visão matemática].
 
 - [Computação Gráfica, UNIVESP](https://www.youtube.com/watch?v=x7yTi91Sz_Q&list=PLxI8Can9yAHeyMkv9I9msYWrC1YPBJW0p)
