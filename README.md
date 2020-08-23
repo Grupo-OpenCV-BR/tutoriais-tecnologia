@@ -2,10 +2,12 @@
 
 - [Grupo de OpenCV Brasil -  Telegram](https://t.me/opencvBrasil)
 
+
 # Programação em Geral.
 
 - [Curso de Python 3, Curso em Video - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 - [Programação Dinâmica APRENDA Python, Hallison Paz](https://www.youtube.com/c/Programa%C3%A7%C3%A3oDin%C3%A2mica/playlists?view=50&sort=dd&shelf_id=15)
+
 
 # Git e GitHub.
 
@@ -13,16 +15,25 @@
 - [Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal,Curso em Video - Gustavo Guanabara](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
 - [How to Use Git and GitHub, Udacity](https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLAwxTw4SYaPk8_-6IGxJtD3i2QAu5_s_p)
 
+
 # Referências Importantes.
 
 - [Processamento de Imagens, Hallison Paz](https://www.youtube.com/watch?v=T9V_axU6jU8&list=PL5TJqBvpXQv54i_HWjd7s70vbP4Is7sK_)
 - [Learn OpenCV, Satya Mallick](https://www.learnopencv.com/)
 - [PyImageSearch, Adrian Rosebrock,](https://www.pyimagesearch.com/)
 
+
+## Books
+
+- [Computer Vision: Theory and Application - Rick Szeliski](http://szeliski.org/Book/)
+- [Multiple View Geometry in Computer Vision - Richard Hartley and Andrew Zisserman](http://www.robots.ox.ac.uk/~vgg/hzbook/)
+
+
 # Tutoriais Importantes.
 
  -  Higia Labs, Andre Emidio. -  [Instalando OpenCV C++ no Windows](https://medium.com/higialabs/instalando-opencv-no-windows-4ac77e334d89)
  -  Carvalho Natalia - [Instalando a OpenCV C++ no Ubuntu](https://medium.com/@carvalho.natalia03/instalando-a-opencv-c-no-linux-98d7fc71e996)
+
 
 # Projetos "Hello World"
 
@@ -35,6 +46,7 @@
 
 - [Referência, @Clalloures](https://github.com/Clalloures/TUDO-Visao-Computacional)
 
+
 # Processamento de imagens [visão matemática].
 
 - [Computação Gráfica, UNIVESP](https://www.youtube.com/watch?v=x7yTi91Sz_Q&list=PLxI8Can9yAHeyMkv9I9msYWrC1YPBJW0p)
@@ -42,19 +54,35 @@
 - [Curso Online - Processamento de Imagens (2020), IMPA](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj)
 - [Introduction to Computer Vision, Udacity](https://www.youtube.com/watch?v=2S4nn7S8Hk4&list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm)
 
+
 # Estatística
 
 - [EstaTiDados](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw)
 - [Outspoken Market](https://www.youtube.com/user/aitechinvest)
 
 
+## Books
+
+- [Think Stats - Allen B. Downey](https://greenteapress.com/wp/think-stats-2e/)
+- [Think Bayes - Allen B. Downey](https://greenteapress.com/wp/think-bayes/)
+
+
 # Machine Learning
 
 - [Machine Learning](https://www.coursera.org/learn/machine-learning)
 
+
 ## Cursos
 
 - [Programa de cursos integrados Matemática para aprendizagem automática](https://pt.coursera.org/specializations/mathematics-machine-learning)
+
+
+## Books
+
+- [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [Understanding Machine Learning - Shai Shalev-Shwartz and Shai Ben-David](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
+- [Data Mining and Machine Learning - Mohammed J. Zaki, Wagner Meira, Jr.](https://dataminingbook.info/book_html/)
+- [Machine Learning and Big Data - Kareem Alkaseer](http://www.kareemalkaseer.com/books/ml/)
 
 
 # Deep Learning
@@ -68,12 +96,10 @@
 - [Deep Learning, Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
 - [Deep Learning Book, Português](http://deeplearningbook.com.br/)
   
+  
 ## Cursos
 
 - [Cursos de Deep Learning](https://pt.coursera.org/courses?query=deep%20learning)
-
-## Referências interessantes
-
 
 
 # Documentação Oficial.
@@ -87,20 +113,22 @@
  -  [Caffe](https://caffe.berkeleyvision.org/)
  -  [Theano](http://deeplearning.net/software/theano/)
 
+
 # Universidades Estrangeiras.
 
 -  [Stanford University School of Engineering |Lecture Collection | Convolutional Neural Networks for Visual Recognition (Spring 2017)](https://www.youtube.com/watch?v=vT1JzLTH4G4&list=PL3FW7Lu3i5JvHM8ljYj-zLfQRF3EO8sYv)
 -  [MIT A 2020 Vision of Linear Algebra, Spring 2020, MIT OpenCourseWare](https://www.youtube.com/watch?v=YrHlHbtiSM0&list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
+
 
 # Cursos Estrangeiros.
 
 - [Coursera](https://pt.coursera.org/)
 - [Edx](https://www.edx.org/)
 
+
 # Inteligência Artificial
 
 - [Inteligência Artificial em saúde: o uso de machine learning, Alexandre Chiavegatto](https://www.youtube.com/playlist?list=PLAudUnJeNg4tvUFZ8tXQDoAkFAASQzOHm&disable_polymer=true)
-
 
 
 # Datasets
@@ -127,7 +155,6 @@
 - [Comma.ai Driving Dataset](https://archive.org/details/comma-dataset)
 - [Lex Fridman](https://lexfridman.com/automated-synchronization-of-driving-data-video-audio-telemetry-accelerometer/)
 - [LISA](http://cvrr.ucsd.edu/LISA/datasets.html)
-
 
 
 # Canais Interessantes
