@@ -119,6 +119,14 @@
 - [IMDB-WIKI](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
 - [Color Names](https://github.com/codebrainz/color-names/blob/master/output/colors.csv)
 - [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+- [Access Waymo Open Dataset](https://waymo.com/open/)
+- [Berkeley Deep Drive](https://bdd-data.berkeley.edu/)
+- [Bosch Small Traffic Lights Dataset](https://hci.iwr.uni-heidelberg.de/content/bosch-small-traffic-lights-dataset)
+- [Traffic Lights Recognition (TLR) public benchmarks](http://www.lara.prd.fr/benchmarks/trafficlightsrecognition)
+- [WPI Traffic Light Dataset](http://computing.wpi.edu/dataset.html)
+- [Comma.ai Driving Dataset](https://archive.org/details/comma-dataset)
+- [Lex Fridman](https://lexfridman.com/automated-synchronization-of-driving-data-video-audio-telemetry-accelerometer/)
+- [LISA](http://cvrr.ucsd.edu/LISA/datasets.html)
 
 
 
