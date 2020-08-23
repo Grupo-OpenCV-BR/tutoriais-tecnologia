@@ -26,12 +26,12 @@
 
 # Projetos "Hello World"
 
-- [ ] Identificação de cor
-- [ ] Capa da invisibilidade
-- [ ] Identificação de bordas
-- [ ] Detecção Facial 
-- [ ] Classificação de Objetos
-- [ ] Rastreamento de Objetos
+- [Identificação de cor](https://medium.com/@suzana.svm/vis%C3%A3o-computacional-detec%C3%A7%C3%A3o-de-cores-em-tempo-real-utilizando-python-e-opencv-a466444d40e)
+- [Capa da invisibilidade](https://visioncompy.com/capa-de-invisibilidade-usando-opencv/)
+- [Identificação de bordas](https://cadernodelaboratorio.com.br/detectar-bordas-com-o-opencv-4-2/)
+- [Detecção Facial](https://medium.com/@nataniel.paiva/detec%C3%A7%C3%A3o-de-face-e-olhos-com-opencv-e-python-247b7c15a74e)
+- [Classificação de Objetos](https://medium.com/ensina-ai/detectando-objetos-com-m%C3%A9todos-cl%C3%A1ssicos-opencv-cascades-440e29913b1b)
+- [Rastreamento de Objetos](https://imasters.com.br/back-end/rastreando-objetos-azuis-com-opencv-e-python)
 
 - [Referência, @Clalloures](https://github.com/Clalloures/TUDO-Visao-Computacional)
 
@@ -46,6 +46,29 @@
 
 - [EstaTiDados](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw)
 - [Outspoken Market](https://www.youtube.com/user/aitechinvest)
+
+
+# Machine Learning
+
+- [Machine Learning](https://www.coursera.org/learn/machine-learning)
+
+## Cursos
+
+- [Programa de cursos integrados Matemática para aprendizagem automática](https://pt.coursera.org/specializations/mathematics-machine-learning)
+
+
+# Deep Learning
+
+- [DEEP LEARNING EM PORTUGUÊS, Sandeco](https://www.youtube.com/watch?v=ei5F76hF2bg&list=PLbmt8d_ueDMVUVlw9VZSdgAIi6W3u-7Zg)
+- [Introduction to Deep Learning, MIT 6.S191](http://introtodeeplearning.com/)
+
+## Books
+- [Deep Learning, Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+- [Deep Learning Book, Português](http://deeplearningbook.com.br/)
+  
+## Cursos
+
+- [Cursos de Deep Learning](https://pt.coursera.org/courses?query=deep%20learning)
 
 # Documentação Oficial.
 
@@ -82,3 +105,4 @@
 - [stanfordonline](https://www.youtube.com/user/stanfordonline/playlists)
 - [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [OpenCV C++ on Linux Tutorial 1 - OpenCV 3.2 Installation on Ubuntu 16.04](https://www.youtube.com/watch?v=DRH-EaIhOlc&list=PLS1lqxOwNjOaEFHEhbU_5uUZwrUquKTwZ)
+- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
