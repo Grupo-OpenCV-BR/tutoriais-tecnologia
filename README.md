@@ -1,6 +1,6 @@
 # Tutoriais de Visão Computacional e Processamento de Imagens
 
-- [Grupo de OpenCV Brasil](https://t.me/opencvBrasil)
+- [Grupo de OpenCV Brasil -  Telegram](https://t.me/opencvBrasil)
 
 # Programação em Geral.
 
