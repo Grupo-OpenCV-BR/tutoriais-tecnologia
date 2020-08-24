@@ -76,7 +76,9 @@
 
 
 
-# Documentação Oficial.
+
+
+# Documentação Oficial e libs interessantes.
 
  -  [OpenCV 4.4.0](https://docs.opencv.org/4.4.0/)
  -  [Python 3.8](https://docs.python.org/pt-br/3/)
@@ -86,6 +88,8 @@
  -  [Pytorch](https://pytorch.org/docs/stable/index.html)
  -  [Caffe](https://caffe.berkeleyvision.org/)
  -  [Theano](http://deeplearning.net/software/theano/)
+ -  [SimpleITK](https://simpleitk.org/)
+ -  [Mahotas](https://mahotas.readthedocs.io/en/latest/)
 
 # Universidades Estrangeiras.
 
