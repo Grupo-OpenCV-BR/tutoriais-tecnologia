@@ -155,6 +155,8 @@
 - [Comma.ai Driving Dataset](https://archive.org/details/comma-dataset)
 - [Lex Fridman](https://lexfridman.com/automated-synchronization-of-driving-data-video-audio-telemetry-accelerometer/)
 - [LISA](http://cvrr.ucsd.edu/LISA/datasets.html)
+- [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/#dataset)
+- [AI Resource Center](https://appen.com/resources/datasets/)
 
 
 # Canais Interessantes
