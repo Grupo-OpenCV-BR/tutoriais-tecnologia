@@ -161,6 +161,10 @@
 - [LISA](http://cvrr.ucsd.edu/LISA/datasets.html)
 - [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/#dataset)
 - [AI Resource Center](https://appen.com/resources/datasets/)
+- [Data for MATLAB hackers](https://cs.nyu.edu/~roweis/data.html)
+- [Machine learning datasets](https://www.datasetlist.com/)
+- [INRIA Person Dataset](http://pascal.inrialpes.fr/data/human/)
+- [DIH: Depth Images with Humans](https://www.idiap.ch/dataset/dih)
 
 
 # Canais Interessantes
