@@ -55,6 +55,13 @@
 - [Introduction to Computer Vision, Udacity](https://www.youtube.com/watch?v=2S4nn7S8Hk4&list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm)
 
 
+## Processamento de Sinais
+
+- [Processamento Digital de Sinais](https://www.youtube.com/watch?v=DmZCPVcnVWE&list=PLYa_nhNE4t1k23ew_bR4ze5P6e8MCJKIQ)
+- [Disciplina de Processamento Digital de Sinais e Imagens - PDSI](https://portal.cbpf.br/pt-br/laboratorios/lpdsi/tutoriais-do-lpdsi)
+
+
+
 # Estatística
 
 - [EstaTiDados](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw)
@@ -179,3 +186,8 @@
 - [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [OpenCV C++ on Linux Tutorial 1 - OpenCV 3.2 Installation on Ubuntu 16.04](https://www.youtube.com/watch?v=DRH-EaIhOlc&list=PLS1lqxOwNjOaEFHEhbU_5uUZwrUquKTwZ)
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+
+
+# Recursos Interessantes 
+
+- [INPE Dados Abertos](http://www.inpe.br/dados_abertos/)
