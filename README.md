@@ -55,6 +55,13 @@
 - [Introduction to Computer Vision, Udacity](https://www.youtube.com/watch?v=2S4nn7S8Hk4&list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm)
 
 
+## Processamento de Sinais
+
+- [Processamento Digital de Sinais](https://www.youtube.com/watch?v=DmZCPVcnVWE&list=PLYa_nhNE4t1k23ew_bR4ze5P6e8MCJKIQ)
+- [Disciplina de Processamento Digital de Sinais e Imagens - PDSI](https://portal.cbpf.br/pt-br/laboratorios/lpdsi/tutoriais-do-lpdsi)
+
+
+
 # Estatística
 
 - [EstaTiDados](https://www.youtube.com/channel/UC4jROkPjTvnXRkuo2GAwKXw)
@@ -102,7 +109,9 @@
 - [Cursos de Deep Learning](https://pt.coursera.org/courses?query=deep%20learning)
 
 
-# Documentação Oficial.
+
+
+# Documentação Oficial e libs interessantes.
 
  -  [OpenCV 4.4.0](https://docs.opencv.org/4.4.0/)
  -  [Python 3.8](https://docs.python.org/pt-br/3/)
@@ -112,6 +121,8 @@
  -  [Pytorch](https://pytorch.org/docs/stable/index.html)
  -  [Caffe](https://caffe.berkeleyvision.org/)
  -  [Theano](http://deeplearning.net/software/theano/)
+ -  [SimpleITK](https://simpleitk.org/)
+ -  [Mahotas](https://mahotas.readthedocs.io/en/latest/)
 
 
 # Universidades Estrangeiras.
@@ -157,6 +168,10 @@
 - [LISA](http://cvrr.ucsd.edu/LISA/datasets.html)
 - [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/#dataset)
 - [AI Resource Center](https://appen.com/resources/datasets/)
+- [Data for MATLAB hackers](https://cs.nyu.edu/~roweis/data.html)
+- [Machine learning datasets](https://www.datasetlist.com/)
+- [INRIA Person Dataset](http://pascal.inrialpes.fr/data/human/)
+- [DIH: Depth Images with Humans](https://www.idiap.ch/dataset/dih)
 
 
 # Canais Interessantes
@@ -171,3 +186,8 @@
 - [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
 - [OpenCV C++ on Linux Tutorial 1 - OpenCV 3.2 Installation on Ubuntu 16.04](https://www.youtube.com/watch?v=DRH-EaIhOlc&list=PLS1lqxOwNjOaEFHEhbU_5uUZwrUquKTwZ)
 - [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+
+
+# Recursos Interessantes 
+
+- [INPE Dados Abertos](http://www.inpe.br/dados_abertos/)
