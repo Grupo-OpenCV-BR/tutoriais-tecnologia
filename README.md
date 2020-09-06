@@ -150,7 +150,6 @@
 - [Visual Data](https://www.visualdata.io/discovery)
 - [HoliCity: A City-Scale Data Platform for Learning Holistic 3D Structures](https://people.eecs.berkeley.edu/~zyc/holicity/)
 - [Machine Learning and AI: Find Datasets](https://guides.library.cmu.edu/machine-learning/datasets)
-- [MNIST](http://yann.lecun.com/exdb/mnist/)
 - [xView](http://xviewdataset.org/#dataset)
 - [Kinetics, Deepmind](https://deepmind.com/research/open-source/kinetics)
 - [Open Images Dataset](https://ai.googleblog.com/2016/09/introducing-open-images-dataset.html)
@@ -212,3 +211,4 @@
 # Recursos Interessantes 
 
 - [INPE Dados Abertos](http://www.inpe.br/dados_abertos/)
+- [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
