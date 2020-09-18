@@ -195,6 +195,7 @@
 - [The Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/)
 - [Lung Nodule Analysis 2016 - Análise Pulmonar](https://luna16.grand-challenge.org/Data/)
 
+
 # Canais Interessantes
 
 - [Programação Dinâmica](https://www.youtube.com/c/Programa%C3%A7%C3%A3oDin%C3%A2mica/)
@@ -211,5 +212,7 @@
 
 # Recursos Interessantes 
 
+
 - [INPE Dados Abertos](http://www.inpe.br/dados_abertos/)
 - [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+
