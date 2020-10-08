@@ -54,6 +54,9 @@
 - [Curso Online - Processamento de Imagens (2020), IMPA](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj)
 - [Introduction to Computer Vision, Udacity](https://www.youtube.com/watch?v=2S4nn7S8Hk4&list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm)
 
+# Processamento de imagens [visão Prática].
+
+- [Como Analisar Imagens Usando PYTHON  e OPENCV, C&S Analytics](https://www.youtube.com/playlist?list=PLsyobOqUhkthjvmA_s7tTjb7V2EiwYYGC)
 
 ## Processamento de Sinais
 
