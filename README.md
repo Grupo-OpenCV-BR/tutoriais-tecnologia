@@ -9,6 +9,8 @@
 - [Programação Dinâmica APRENDA Python, Hallison Paz](https://www.youtube.com/c/Programa%C3%A7%C3%A3oDin%C3%A2mica/playlists?view=50&sort=dd&shelf_id=15)
 
 
+- [Diversos Livros de Linguagens de Programação - Ebook Foundation](https://github.com/EbookFoundation/free-programming-books)
+
 # Git e GitHub.
 
 - [Git e Github para iniciantes, Git e Github para iniciantes - Willian Justen de Vasconcellos](https://www.udemy.com/course/git-e-github-para-iniciantes/)
@@ -26,6 +28,10 @@
 ## Books
 
 - [Computer Vision: Theory and Application - Rick Szeliski](http://szeliski.org/Book/)
+- [PyTorch Computer Vision Cookbook](https://github.com/PacktPublishing/PyTorch-Computer-Vision-Cookbook)
+- [Hands-On Computer Vision with TensorFlow 2](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
+- [Mastering Computer Vision with TensorFlow 2.x](https://github.com/PacktPublishing/Mastering-Computer-Vision-with-TensorFlow-2.0)
+- [Diversos Livros de Machine Learnin, Deep Learning, CV e RL](https://github.com/changwookjun/StudyBook)
 - [Multiple View Geometry in Computer Vision - Richard Hartley and Andrew Zisserman](http://www.robots.ox.ac.uk/~vgg/hzbook/)
 
 
