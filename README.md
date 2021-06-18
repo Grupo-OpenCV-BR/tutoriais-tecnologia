@@ -3,6 +3,14 @@
 - [Grupo de OpenCV Brasil -  Telegram](https://t.me/opencvBrasil)
 
 
+
+# Pipeline para construção de algoritmos e produtos para Visão Computacional
+
+![](/imagens/1623757864301.jpg)
+
+Referência : [Nicolas Melo](https://www.linkedin.com/in/n%C3%ADcolas-melo-bsb/)
+Post Original :  [Minha Pipeline de criação  de um  projeto de visão computacional](https://www.linkedin.com/feed/update/urn:li:activity:6810534108452716545/)
+
 # Programação em Geral.
 
 - [Curso de Python 3, Curso em Video - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
