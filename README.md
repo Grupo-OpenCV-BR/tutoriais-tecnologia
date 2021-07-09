@@ -67,6 +67,7 @@ Post Original :  [Minha Pipeline de criação  de um  projeto de visão computac
 - [Iniciação Científica, IMPA](https://www.youtube.com/watch?v=u40Opm9TZxU&list=RDCMUCpuZUX_IyMPXiqlkwrxCbNA&start_radio=1&t=3998)
 - [Curso Online - Processamento de Imagens (2020), IMPA](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj)
 - [Introduction to Computer Vision, Udacity](https://www.youtube.com/watch?v=2S4nn7S8Hk4&list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm)
+- [Conselhos para iniciar na Visão Computacional](https://medium.com/programacaodinamica/conselhos-para-iniciar-na-vis%C3%A3o-computacional-6d0368906383)
 
 # Processamento de imagens [visão Prática].
 
