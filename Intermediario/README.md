@@ -4,15 +4,6 @@
 
 
 
-- [Iniciante](Iniciante/README.md)
-
-- [Intermediário](Intermediario/README.md)
-
-- [Avançado](avançado/README.md)
-
-- [Datasets](Datasets/README.md)
-
-
 # Pipeline para construção de algoritmos e produtos para Visão Computacional
 
 ![](./imagens/1623757864301.jpg)
@@ -44,7 +35,7 @@ Post Original :  [Minha Pipeline de criação  de um  projeto de visão computac
 
 ## Books
 
-
+- [Computer Vision: Theory and Application - Rick Szeliski](http://szeliski.org/Book/)
 - [PyTorch Computer Vision Cookbook](https://github.com/PacktPublishing/PyTorch-Computer-Vision-Cookbook)
 - [Hands-On Computer Vision with TensorFlow 2](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
 - [Mastering Computer Vision with TensorFlow 2.x](https://github.com/PacktPublishing/Mastering-Computer-Vision-with-TensorFlow-2.0)
@@ -58,7 +49,16 @@ Post Original :  [Minha Pipeline de criação  de um  projeto de visão computac
  -  Carvalho Natalia - [Instalando a OpenCV C++ no Ubuntu](https://medium.com/@carvalho.natalia03/instalando-a-opencv-c-no-linux-98d7fc71e996)
 
 
+# Projetos "Hello World"
 
+- [Identificação de cor](https://medium.com/@suzana.svm/vis%C3%A3o-computacional-detec%C3%A7%C3%A3o-de-cores-em-tempo-real-utilizando-python-e-opencv-a466444d40e)
+- [Capa da invisibilidade](https://visioncompy.com/capa-de-invisibilidade-usando-opencv/)
+- [Identificação de bordas](https://cadernodelaboratorio.com.br/detectar-bordas-com-o-opencv-4-2/)
+- [Detecção Facial](https://medium.com/@nataniel.paiva/detec%C3%A7%C3%A3o-de-face-e-olhos-com-opencv-e-python-247b7c15a74e)
+- [Classificação de Objetos](https://medium.com/ensina-ai/detectando-objetos-com-m%C3%A9todos-cl%C3%A1ssicos-opencv-cascades-440e29913b1b)
+- [Rastreamento de Objetos](https://imasters.com.br/back-end/rastreando-objetos-azuis-com-opencv-e-python)
+
+- [Referência, @Clalloures](https://github.com/Clalloures/TUDO-Visao-Computacional)
 
 
 # Processamento de imagens [visão matemática].
@@ -69,6 +69,9 @@ Post Original :  [Minha Pipeline de criação  de um  projeto de visão computac
 - [Introduction to Computer Vision, Udacity](https://www.youtube.com/watch?v=2S4nn7S8Hk4&list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm)
 - [Conselhos para iniciar na Visão Computacional](https://medium.com/programacaodinamica/conselhos-para-iniciar-na-vis%C3%A3o-computacional-6d0368906383)
 
+# Processamento de imagens [visão Prática].
+
+- [Como Analisar Imagens Usando PYTHON  e OPENCV, C&S Analytics](https://www.youtube.com/playlist?list=PLsyobOqUhkthjvmA_s7tTjb7V2EiwYYGC)
 
 ## Processamento de Sinais
 
@@ -157,6 +160,58 @@ Post Original :  [Minha Pipeline de criação  de um  projeto de visão computac
 - [Inteligência Artificial em saúde: o uso de machine learning, Alexandre Chiavegatto](https://www.youtube.com/playlist?list=PLAudUnJeNg4tvUFZ8tXQDoAkFAASQzOHm&disable_polymer=true)
 
 
+# Datasets
+
+- [Kaggle - Computer Vision ](https://www.kaggle.com/search?q=computer+vision+in%3Adatasets)
+- [ImageNet](http://image-net.org/download)
+- [UC Irvine](https://archive.ics.uci.edu/ml/index.php)
+- [Visual Data](https://www.visualdata.io/discovery)
+- [HoliCity: A City-Scale Data Platform for Learning Holistic 3D Structures](https://people.eecs.berkeley.edu/~zyc/holicity/)
+- [Machine Learning and AI: Find Datasets](https://guides.library.cmu.edu/machine-learning/datasets)
+- [xView](http://xviewdataset.org/#dataset)
+- [Kinetics, Deepmind](https://deepmind.com/research/open-source/kinetics)
+- [Open Images Dataset](https://ai.googleblog.com/2016/09/introducing-open-images-dataset.html)
+- [The Cityscapes Dataset](https://www.cityscapes-dataset.com/)
+- [IMDB-WIKI](https://data.vision.ee.ethz.ch/cvl/rrothe/imdb-wiki/)
+- [Color Names](https://github.com/codebrainz/color-names/blob/master/output/colors.csv)
+- [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+- [Access Waymo Open Dataset](https://waymo.com/open/)
+- [Berkeley Deep Drive](https://bdd-data.berkeley.edu/)
+- [Bosch Small Traffic Lights Dataset](https://hci.iwr.uni-heidelberg.de/content/bosch-small-traffic-lights-dataset)
+- [Traffic Lights Recognition (TLR) public benchmarks](http://www.lara.prd.fr/benchmarks/trafficlightsrecognition)
+- [WPI Traffic Light Dataset](http://computing.wpi.edu/dataset.html)
+- [Comma.ai Driving Dataset](https://archive.org/details/comma-dataset)
+- [Lex Fridman](https://lexfridman.com/automated-synchronization-of-driving-data-video-audio-telemetry-accelerometer/)
+- [LISA](http://cvrr.ucsd.edu/LISA/datasets.html)
+- [MPII Human Pose Dataset](http://human-pose.mpi-inf.mpg.de/#dataset)
+- [AI Resource Center](https://appen.com/resources/datasets/)
+- [Data for MATLAB hackers](https://cs.nyu.edu/~roweis/data.html)
+- [Machine learning datasets](https://www.datasetlist.com/)
+- [INRIA Person Dataset](http://pascal.inrialpes.fr/data/human/)
+- [DIH: Depth Images with Humans](https://www.idiap.ch/dataset/dih)
+- [Violent-Flows - Crowd Violence Non-violence Database and benchmark](http://www.openu.ac.il/home/hassner/data/violentflows/)
+- [Visual genome](http://visualgenome.org/api/v0/api_home.html)
+- [YouTube Faces Database](http://www.cs.tau.ac.il/~wolf/ytfaces/)
+- [10k US Adult Faces Database](http://wilmabainbridge.com/facememorability2.html)
+- [2GB of Photos of Cats](http://137.189.35.203/WebUI/CatDatabase/catData.html)
+- [Adience Unfiltered faces for gender and age classification](http://www.openu.ac.il/home/hassner/Adience/data.html)
+- [Affective Image Classification](http://www.imageemotion.org/)
+- [Animals with attributes](http://attributes.kyb.tuebingen.mpg.de/)
+- [Caltech Pedestrian Detection Benchmark](https://www.vision.caltech.edu/Image_Datasets/CaltechPedestrians/)
+- [Chars74K dataset, Character Recognition in Natural Images (both English and Kannada are available)](http://www.ee.surrey.ac.uk/CVSSP/demos/chars74k/)
+- [Face Recognition Benchmark ](http://www.face-rec.org/databases/)
+- [GDXray: X-ray images for X-ray testing and Computer Vision](http://dmery.ing.puc.cl/index.php/material/gdxray/)
+- [ImageNet (in WordNet hierarchy)](http://www.image-net.org/)
+- [Indoor Scene Recognition](http://web.mit.edu/torralba/www/indoor.html)
+- [International Affective Picture System, UFL](http://csea.phhp.ufl.edu/media/iapsmessage.html)
+- [Massive Visual Memory Stimuli, MIT](http://cvcl.mit.edu/MM/stimuli.html)
+- [MNIST database of handwritten digits, near 1 million examples](http://yann.lecun.com/exdb/mnist/)
+- [Several Shape-from-Silhouette Datasets](http://kaiwolf.no-ip.org/3d-model-repository.html)
+- [Stanford Dogs Dataset](http://vision.stanford.edu/aditya86/ImageNetDogs/)
+- [SUN database, MIT](http://groups.csail.mit.edu/vision/SUN/hierarchy.html)
+- [The Action Similarity Labeling (ASLAN) Challenge](http://www.openu.ac.il/home/hassner/data/ASLAN/ASLAN.html)
+- [The Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/)
+- [Lung Nodule Analysis 2016 - Análise Pulmonar](https://luna16.grand-challenge.org/Data/)
 
 
 # Canais Interessantes
