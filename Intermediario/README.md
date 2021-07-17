@@ -75,8 +75,8 @@ Post Original :  [Minha Pipeline de criação  de um  projeto de visão computac
 
 ## Processamento de Sinais
 
+- [DSP - Embarcados](https://www.embarcados.com.br/serie/dsp/)
 - [Processamento Digital de Sinais](https://www.youtube.com/watch?v=DmZCPVcnVWE&list=PLYa_nhNE4t1k23ew_bR4ze5P6e8MCJKIQ)
-- [Disciplina de Processamento Digital de Sinais e Imagens - PDSI](https://portal.cbpf.br/pt-br/laboratorios/lpdsi/tutoriais-do-lpdsi)
 
 
 

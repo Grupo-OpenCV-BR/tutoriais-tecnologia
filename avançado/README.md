@@ -51,37 +51,18 @@ Post Original :  [Minha Pipeline de criação  de um  projeto de visão computac
 - [Multiple View Geometry in Computer Vision - Richard Hartley and Andrew Zisserman](http://www.robots.ox.ac.uk/~vgg/hzbook/)
 
 
-# Tutoriais Importantes.
+# Processamento de imagens [visão matemática]
 
- -  Higia Labs, Andre Emidio. -  [Instalando OpenCV C++ no Windows](https://medium.com/higialabs/instalando-opencv-no-windows-4ac77e334d89)
- -  Carvalho Natalia - [Instalando a OpenCV C++ no Ubuntu](https://medium.com/@carvalho.natalia03/instalando-a-opencv-c-no-linux-98d7fc71e996)
-
-
-# Projetos "Hello World"
-
-- [Identificação de cor](https://medium.com/@suzana.svm/vis%C3%A3o-computacional-detec%C3%A7%C3%A3o-de-cores-em-tempo-real-utilizando-python-e-opencv-a466444d40e)
-- [Capa da invisibilidade](https://visioncompy.com/capa-de-invisibilidade-usando-opencv/)
-- [Identificação de bordas](https://cadernodelaboratorio.com.br/detectar-bordas-com-o-opencv-4-2/)
-- [Detecção Facial](https://medium.com/@nataniel.paiva/detec%C3%A7%C3%A3o-de-face-e-olhos-com-opencv-e-python-247b7c15a74e)
-- [Classificação de Objetos](https://medium.com/ensina-ai/detectando-objetos-com-m%C3%A9todos-cl%C3%A1ssicos-opencv-cascades-440e29913b1b)
-- [Rastreamento de Objetos](https://imasters.com.br/back-end/rastreando-objetos-azuis-com-opencv-e-python)
-
-- [Referência, @Clalloures](https://github.com/Clalloures/TUDO-Visao-Computacional)
-
-
-# Processamento de imagens [visão matemática].
-
-- [Computação Gráfica, UNIVESP](https://www.youtube.com/watch?v=x7yTi91Sz_Q&list=PLxI8Can9yAHeyMkv9I9msYWrC1YPBJW0p)
-- [Iniciação Científica, IMPA](https://www.youtube.com/watch?v=u40Opm9TZxU&list=RDCMUCpuZUX_IyMPXiqlkwrxCbNA&start_radio=1&t=3998)
 - [Curso Online - Processamento de Imagens (2020), IMPA](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj)
-- [Introduction to Computer Vision, Udacity](https://www.youtube.com/watch?v=2S4nn7S8Hk4&list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm)
-- [Conselhos para iniciar na Visão Computacional](https://medium.com/programacaodinamica/conselhos-para-iniciar-na-vis%C3%A3o-computacional-6d0368906383)
+
 
 # Processamento de imagens [visão Prática].
 
 - [Como Analisar Imagens Usando PYTHON  e OPENCV, C&S Analytics](https://www.youtube.com/playlist?list=PLsyobOqUhkthjvmA_s7tTjb7V2EiwYYGC)
 
 ## Processamento de Sinais
+
+- [DSP - Embarcados](https://www.embarcados.com.br/serie/dsp/)
 
 - [Processamento Digital de Sinais](https://www.youtube.com/watch?v=DmZCPVcnVWE&list=PLYa_nhNE4t1k23ew_bR4ze5P6e8MCJKIQ)
 - [Disciplina de Processamento Digital de Sinais e Imagens - PDSI](https://portal.cbpf.br/pt-br/laboratorios/lpdsi/tutoriais-do-lpdsi)

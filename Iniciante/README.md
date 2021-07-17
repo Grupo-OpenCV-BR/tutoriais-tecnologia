@@ -20,6 +20,19 @@
 - [Como Analisar Imagens Usando PYTHON  e OPENCV, C&S Analytics](https://www.youtube.com/playlist?list=PLsyobOqUhkthjvmA_s7tTjb7V2EiwYYGC)
 
 
+# Processamento de imagens [visão matemática]
+
+- [Iniciação Científica, IMPA](https://www.youtube.com/watch?v=u40Opm9TZxU&list=RDCMUCpuZUX_IyMPXiqlkwrxCbNA&start_radio=1&t=3998)
+- [Introduction to Computer Vision, Udacity](https://www.youtube.com/watch?v=2S4nn7S8Hk4&list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm)
+  
+
+## Processamento de Sinais
+
+- [DSP - Embarcados](https://www.embarcados.com.br/serie/dsp/)
+- [Processamento Digital de Sinais](https://www.youtube.com/watch?v=DmZCPVcnVWE&list=PLYa_nhNE4t1k23ew_bR4ze5P6e8MCJKIQ)
+
+
+
 # Livros 
 
 - [Computer Vision: Theory and Application - Rick Szeliski](http://szeliski.org/Book/)
