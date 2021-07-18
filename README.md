@@ -68,6 +68,8 @@
 - SIGGRAPH (Computer Vision selection) 
 - EUROGRAPHICS (Computer Vision selection)
 - IJCAI (Computer Vision selection)
+- International MIR Society
+- BMVC (The British Machine Vision Association)
 
 <br>
 
@@ -76,11 +78,16 @@
 - [CV Papers](http://www.cvpapers.com/)
 - [arXiv.org](https://arxiv.org/)
 
+## Compilado de papers 
+
+- [Ke-Sen Huang's Home Page](http://kesen.realtimerendering.com/)
+
 <br>  
 
 ## Recursos Interessantes 
 
-- [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+- [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)- - 
+- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
 
 <br>
 
@@ -94,4 +101,4 @@
 - [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
 - [stanfordonline](https://www.youtube.com/user/stanfordonline/playlists)
 - [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
-- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+
