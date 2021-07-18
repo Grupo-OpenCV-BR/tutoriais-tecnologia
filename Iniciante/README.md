@@ -1,4 +1,10 @@
-# Projetos "Hello World"
+# Iniciante - Visão Computacional e Processamento de Imagens
+
+- [Grupo de OpenCV Brasil -  Telegram](https://t.me/opencvBrasil)
+
+<br>
+
+## Projetos "Hello World"
 
 - [Identificação de cor](https://medium.com/@suzana.svm/vis%C3%A3o-computacional-detec%C3%A7%C3%A3o-de-cores-em-tempo-real-utilizando-python-e-opencv-a466444d40e)
 - [Capa da invisibilidade](https://visioncompy.com/capa-de-invisibilidade-usando-opencv/)
@@ -7,34 +13,75 @@
 - [Classificação de Objetos](https://medium.com/ensina-ai/detectando-objetos-com-m%C3%A9todos-cl%C3%A1ssicos-opencv-cascades-440e29913b1b)
 - [Rastreamento de Objetos](https://imasters.com.br/back-end/rastreando-objetos-azuis-com-opencv-e-python)
 
-- [Referência, @Clalloures](https://github.com/Clalloures/TUDO-Visao-Computacional)
+<br>
 
+## Programação em Geral.
 
-# Artigos 
+- [Curso de Python 3, Curso em Video - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
+- [Programação Dinâmica APRENDA Python, Hallison Paz](https://www.youtube.com/c/Programa%C3%A7%C3%A3oDin%C3%A2mica/playlists?view=50&sort=dd&shelf_id=15)
+
+<br>
+
+## Artigos 
 
 - [Conselhos para iniciar na Visão Computacional - Hallison Paz](https://medium.com/programacaodinamica/conselhos-para-iniciar-na-vis%C3%A3o-computacional-6d0368906383)
 
+<br>
 
-# Processamento de imagens [visão Prática].
+## Processamento de imagens [visão Prática].
 
 - [Como Analisar Imagens Usando PYTHON  e OPENCV, C&S Analytics](https://www.youtube.com/playlist?list=PLsyobOqUhkthjvmA_s7tTjb7V2EiwYYGC)
 
+<br>
 
-# Processamento de imagens [visão matemática]
+## Processamento de imagens [visão matemática]
 
 - [Iniciação Científica, IMPA](https://www.youtube.com/watch?v=u40Opm9TZxU&list=RDCMUCpuZUX_IyMPXiqlkwrxCbNA&start_radio=1&t=3998)
-- [Introduction to Computer Vision, Udacity](https://www.youtube.com/watch?v=2S4nn7S8Hk4&list=PLAwxTw4SYaPnbDacyrK_kB_RUkuxQBlCm)
-  
+
+<br>
 
 ## Processamento de Sinais
 
-- [DSP - Embarcados](https://www.embarcados.com.br/serie/dsp/)
+- [Digital Signal Processing - Embarcados](https://www.embarcados.com.br/serie/dsp/)
 - [Processamento Digital de Sinais](https://www.youtube.com/watch?v=DmZCPVcnVWE&list=PLYa_nhNE4t1k23ew_bR4ze5P6e8MCJKIQ)
 
+<br>
+
+## Cursos base
+
+- [Computational Photography](https://classroom.udacity.com/courses/ud955)
+- [Introduction to Computer Vision](https://classroom.udacity.com/courses/ud810)
+- [MIT A 2020 Vision of Linear Algebra, Spring 2020, MIT OpenCourseWare](https://www.youtube.com/watch?v=YrHlHbtiSM0&list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
+- [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
+- [Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics)
+
+<br>
 
 
-# Livros 
+## Livros 
 
 - [Computer Vision: Theory and Application - Rick Szeliski](http://szeliski.org/Book/)
-
 - [Diversos Livros de Machine Learnin, Deep Learning, CV e RL](https://github.com/changwookjun/StudyBook)
+- [Data Mining and Machine Learning - Mohammed J. Zaki, Wagner Meira, Jr.](https://dataminingbook.info/book_html/)
+- [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
+
+<br>
+
+## Git e GitHub.
+
+- [Git e Github para iniciantes, Git e Github para iniciantes - Willian Justen de Vasconcellos](https://www.udemy.com/course/git-e-github-para-iniciantes/)
+- [Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal,Curso em Video - Gustavo Guanabara](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
+- [How to Use Git and GitHub, Udacity](https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLAwxTw4SYaPk8_-6IGxJtD3i2QAu5_s_p)
+
+<br>
+
+## Recursos interessantes 
+
+- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
+  
+<br>
+
+## Referências Importantes.
+
+- [Learn OpenCV, Satya Mallick](https://www.learnopencv.com/)
+- [PyImageSearch, Adrian Rosebrock,](https://www.pyimagesearch.com/)

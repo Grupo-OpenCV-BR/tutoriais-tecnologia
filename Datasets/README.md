@@ -1,11 +1,12 @@
 # Tutoriais de Visão Computacional e Processamento de Imagens
 
 - [Grupo de OpenCV Brasil -  Telegram](https://t.me/opencvBrasil)
-  
-  
+
+<br> 
 
 # Datasets
 
+- [INPE Dados Abertos](http://www.inpe.br/dados_abertos/)
 - [Kaggle - Computer Vision ](https://www.kaggle.com/search?q=computer+vision+in%3Adatasets)
 - [ImageNet](http://image-net.org/download)
 - [UC Irvine](https://archive.ics.uci.edu/ml/index.php)
@@ -57,9 +58,18 @@
 - [The Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/)
 - [Lung Nodule Analysis 2016 - Análise Pulmonar](https://luna16.grand-challenge.org/Data/)
 
-
+<br>
+<br>
+<br>
 
 
 # Referências  
 
 - [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
+
+<br>
+
+## Referências Importantes.
+
+- [Learn OpenCV, Satya Mallick](https://www.learnopencv.com/)
+- [PyImageSearch, Adrian Rosebrock,](https://www.pyimagesearch.com/)
