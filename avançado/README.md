@@ -23,7 +23,7 @@
 
 <br>
 
-## Processamento de imagens [visão matemática]
+## Processamento de imagens [Abordagem matemática]
 
 - [Curso Online - Processamento de Imagens (2020), IMPA](https://www.youtube.com/playlist?list=PLo4jXE-LdDTRaFa39TdNN3FgPAKkcuHvj)
 

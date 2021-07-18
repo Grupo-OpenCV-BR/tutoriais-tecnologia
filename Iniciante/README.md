@@ -34,7 +34,7 @@
 
 <br>
 
-## Processamento de imagens [visão matemática]
+## Processamento de imagens [Abordagem matemática]
 
 - [Iniciação Científica, IMPA](https://www.youtube.com/watch?v=u40Opm9TZxU&list=RDCMUCpuZUX_IyMPXiqlkwrxCbNA&start_radio=1&t=3998)
 
