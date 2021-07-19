@@ -11,6 +11,7 @@
 - [Diversos Livros de Linguagens de Programação - Ebook Foundation](https://github.com/EbookFoundation/free-programming-books)
 - [Curso de Python 3, Curso em Video - Gustavo Guanabara](https://www.youtube.com/playlist?list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6)
 - [Programação Dinâmica APRENDA Python, Hallison Paz](https://www.youtube.com/c/Programa%C3%A7%C3%A3oDin%C3%A2mica/playlists?view=50&sort=dd&shelf_id=15)
+- [Estrutura de dados](https://www.youtube.com/watch?v=UvvFaNV68Xs&list=PLA05yVJtRWYS4mhKqJo_1bZqcetSGjDgU)
 
 
 <br>

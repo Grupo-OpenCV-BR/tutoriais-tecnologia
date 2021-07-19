@@ -57,6 +57,7 @@
 - [The Action Similarity Labeling (ASLAN) Challenge](http://www.openu.ac.il/home/hassner/data/ASLAN/ASLAN.html)
 - [The Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/)
 - [Lung Nodule Analysis 2016 - Análise Pulmonar](https://luna16.grand-challenge.org/Data/)
+- [The Multiple Object Tracking Benchmark](https://motchallenge.net/)
 
 <br>
 <br>
