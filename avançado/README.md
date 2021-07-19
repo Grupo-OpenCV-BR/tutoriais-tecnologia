@@ -57,6 +57,12 @@
 - [Machine Learning and Big Data - Kareem Alkaseer](http://www.kareemalkaseer.com/books/ml/)
 - [Multiple View Geometry in Computer Vision - Richard Hartley and Andrew Zisserman](http://www.robots.ox.ac.uk/~vgg/hzbook/)
 
+<br>
+
+# Dissertações Importantes
+
+- [AVALIAÇÃO DO DESEMPENHO DA TÉCNICA STRUCTURE FROM MOTION PARAMAPEAMENTO DE CORREDORES - NATÁLIA CARVALHO DE AMORIM]( https://acervodigital.ufpr.br/bitstream/handle/1884/69364/R%20-%20D%20-%20NATALIA%20CARVALHO%20DE%20AMORIM.pdf)
+
 
 <br>
 
