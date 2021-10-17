@@ -37,7 +37,7 @@
 
 ## Processamento de imagens [Abordagem matemática]
 
-- [Iniciação Científica, IMPA](https://www.youtube.com/watch?v=u40Opm9TZxU&list=RDCMUCpuZUX_IyMPXiqlkwrxCbNA&start_radio=1&t=3998)
+- [Iniciação Científica, IMPA](https://www.youtube.com/watch?v=u40Opm9TZxU&list=PLo4jXE-LdDTRGoEarRQXBIalJkjSP-aGA)
 
 <br>
 
