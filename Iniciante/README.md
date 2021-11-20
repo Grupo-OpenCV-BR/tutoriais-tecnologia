@@ -55,6 +55,7 @@
 - [MIT A 2020 Vision of Linear Algebra, Spring 2020, MIT OpenCourseWare](https://www.youtube.com/watch?v=YrHlHbtiSM0&list=PLUl4u3cNGP61iQEFiWLE21EJCxwmWvvek)
 - [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics)
+- [Estrutura de dados](https://www.youtube.com/watch?v=t5UmwiJMI6Q&list=PLmDIGfkfgKy1pouEOuiW1G681p7u_20O8&index=3)
 
 <br>
 
