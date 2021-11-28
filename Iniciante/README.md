@@ -48,6 +48,12 @@
 
 <br>
 
+#Video Aulas
+
+- [Introdução à Visão Computacional - Ciências de Dados - 2021](https://www.youtube.com/watch?v=ACyWgh1wcI0)
+
+<br>
+
 ## Cursos base
 
 - [Computational Photography](https://classroom.udacity.com/courses/ud955)
