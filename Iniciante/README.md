@@ -48,9 +48,9 @@
 
 <br>
 
-#Video Aulas
+# Video Aulas
 
-- [Introdução à Visão Computacional - Ciências de Dados - 2021](https://www.youtube.com/watch?v=ACyWgh1wcI0)
+- [Elton Fernandes - Introdução à Visão Computacional - Ciências de Dados - 2021](https://www.youtube.com/watch?v=ACyWgh1wcI0)
 
 <br>
 
