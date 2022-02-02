@@ -62,6 +62,7 @@
 - [Mathematics for Machine Learning Specialization](https://www.coursera.org/specializations/mathematics-machine-learning)
 - [Introduction to Discrete Mathematics for Computer Science Specialization](https://www.coursera.org/specializations/discrete-mathematics)
 - [Estrutura de dados](https://www.youtube.com/watch?v=t5UmwiJMI6Q&list=PLmDIGfkfgKy1pouEOuiW1G681p7u_20O8&index=3)
+- [Visão Computacional & Paradigmas de Visão Computaciona](https://www.youtube.com/watch?v=dWOZTpmDkas&list=PLna9lEnCr-GuaglkAQE2H-WE6tBYjBN7O)
 
 <br>
 
