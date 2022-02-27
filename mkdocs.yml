@@ -95,6 +95,8 @@ nav:
   - Livros:
     Livros : livros/livros.md
   
+  - Provas e Testes : ProvasETestes/index.md
+
   - Imagens Médicas : https://grupo-opencv-br.github.io/imagens-medicas/
 
 extra:
