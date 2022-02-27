@@ -36,10 +36,11 @@ nav:
   
   - Iniciantes :
     - Programação : iniciantes/programacao.md
-    - Instalação do OpenCV C++ :  iniciantes/opencv-cpp.md
-    - Processamento de Imagens Digitais : iniciantes/processamento-imagem.md
-    - Projetos Iniciantes : iniciantes/projetos-iniciantes.md
     - Aulas Comunidade : iniciantes/aulas-comunidade.md
+    - CookBook: iniciantes/CookBook.md
+    - Processamento de Imagens Digitais : iniciantes/processamento-imagem.md
+    - Instalação do OpenCV C++ :  iniciantes/opencv-cpp.md
+    - Projetos Iniciantes : iniciantes/projetos-iniciantes.md   
     - Artigos : iniciantes/artigos.md
     - Apêndice : iniciantes/apendice.md
   
