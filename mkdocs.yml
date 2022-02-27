@@ -1,0 +1,72 @@
+site_name: Tutoriais e Dicas
+
+plugins:
+  - search:
+      lang: 
+        - en
+        - pt
+theme:
+  font:
+    text: Roboto
+  features:
+    - navigation.tabs
+    - navigation.tabs.sticky
+  name: material
+  
+  icon:
+    repo: fontawesome/brands/git-alt
+
+  palette: 
+    # scheme: slate
+    primary: light green
+    accent: cyan 
+
+
+nav:
+  - Home :
+    - Qual o objetivo desse site ?: index.md
+    - Disclaimer :  disclaimer.md
+  
+  - Base:
+    - Algebra Linear :  base/algebra-linear.md
+  
+  - Iniciantes :
+    - Programação : iniciantes/programacao.md
+    - Processamento de Imagens Digitais : iniciantes/processamento-imagem.md
+    - Projetos Iniciantes : iniciantes/projetos-iniciantes.md
+    - Aulas Comunidade : iniciantes/aulas-comunidade.md
+    - Artigos : iniciantes/artigos.md
+    - Apêndice : iniciantes/apendice.md
+  
+  - Intermediarios :
+    - index : intermediarios/index.md
+
+  - Artigos:
+    - Congressos Importantes: papers/congressos.md
+
+  - Blogs Referências:
+    - PyImageSearch : blogs-referencias/pyimagesearch.md
+    - Learn Opencv : blogs-referencias/learnopencv.md
+
+  - Livros:
+    Livros : livros/livros.md
+
+  - Ferramentas :
+    -  Git :  ferramentas/git.md
+
+
+extra:
+  version:
+    provider: mike
+  social:
+    - icon: fontawesome/brands/telegram
+      link: https://t.me/opencvBrasil
+      name: OpenCVismo Brasil
+
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/r2qTpPfPEu
+      name: OpenCVismo Brasil
+
+
+  # repo_url: https://github.com/Grupo-OpenCV-BR/imagens-medicas
+  # homepage: https://grupo-opencv-br.github.io/imagens-medicas/

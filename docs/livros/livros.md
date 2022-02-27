@@ -1,0 +1,4 @@
+- [Computer Vision: Theory and Application - Rick Szeliski](http://szeliski.org/Book/)
+- [Diversos Livros de Machine Learnin, Deep Learning, CV e RL](https://github.com/changwookjun/StudyBook)
+- [Data Mining and Machine Learning - Mohammed J. Zaki, Wagner Meira, Jr.](https://dataminingbook.info/book_html/)
+- [Python Data Science Handbook - Jake VanderPlas](https://jakevdp.github.io/PythonDataScienceHandbook/)
