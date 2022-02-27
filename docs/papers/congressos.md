@@ -1,4 +1,4 @@
-# Sites importante 
+# Sites de Conferências Importantes 
 
 1.  [ICDAR](https://www.icdar.org/)
     <ul>
