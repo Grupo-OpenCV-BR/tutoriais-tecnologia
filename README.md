@@ -4,100 +4,24 @@
 
 <br><br>
 
-## Niveis de conhecimento.
 
-- [Iniciante](Iniciante/README.md)
-
-- [Intermediário](Intermediario/README.md)
-
-- [Avançado](avançado/README.md)
-
-- [Datasets](Datasets/README.md)
-
-
-
-<br>
-<br>
 
 
 ## Provas e testes
 
 - [Provas e testes](https://github.com/Grupo-OpenCV-BR/provas-testes)
 
-<br>
-<br>
 
 
-## Referências Importantes.
-
-- [Learn OpenCV, Satya Mallick](https://www.learnopencv.com/)
-- [PyImageSearch, Adrian Rosebrock,](https://www.pyimagesearch.com/)
-
-<br>
 
 
-# Instalação do OpenCV C++
 
- -  Higia Labs, Andre Emidio. -  [Instalando OpenCV C++ no Windows](https://medium.com/higialabs/instalando-opencv-no-windows-4ac77e334d89)
- -  Carvalho Natalia - [Instalando a OpenCV C++ no Ubuntu](https://medium.com/@carvalho.natalia03/instalando-a-opencv-c-no-linux-98d7fc71e996)
-  
-<br>
 
-## Documentação Oficial e libs interessantes.
 
- -  [OpenCV 4.4.0](https://docs.opencv.org/4.4.0/)
- -  [Python 3.8](https://docs.python.org/pt-br/3/)
- -  [Gluon CV](https://gluon-cv.mxnet.io/)
- -  [Point Cloud Library PCL 1.11](https://pointclouds.org/documentation/)
- -  [Tensor Flow](https://www.tensorflow.org/?hl=pt-br)
- -  [Pytorch](https://pytorch.org/docs/stable/index.html)
- -  [Caffe](https://caffe.berkeleyvision.org/)
- -  [Theano](http://deeplearning.net/software/theano/)
- -  [SimpleITK](https://simpleitk.org/)
- -  [Mahotas](https://mahotas.readthedocs.io/en/latest/)
 
-<br>
+ 
 
-## Cursos Estrangeiros.
 
-- [Coursera](https://pt.coursera.org/)
-- [Edx](https://www.edx.org/)
-
-<br>
-
-## Congressos importantes e Index de papers
-
-- ICDAR
-- ICCV
-- CVPR
-- ECCV
-- ACCV
-- BMVC
-- ICPR
-- SIGGRAPH (Computer Vision selection) 
-- EUROGRAPHICS (Computer Vision selection)
-- IJCAI (Computer Vision selection)
-- International MIR Society
-- BMVC (The British Machine Vision Association)
-
-<br>
-
-## CV Papers
-
-- [CV Papers](http://www.cvpapers.com/)
-- [arXiv.org](https://arxiv.org/)
-
-## Compilado de papers 
-
-- [Ke-Sen Huang's Home Page](http://kesen.realtimerendering.com/)
-
-<br>  
-
-## Recursos Interessantes 
-
-- [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html- [Awesome Computer Vision](https://github.com/jbhuang0604/awesome-computer-vision)
-
-<br>
 
 ## Canais Interessantes
 
@@ -109,4 +33,47 @@
 - [MIT OpenCourseWare](https://www.youtube.com/channel/UCEBb1b_L6zDS3xTUrIALZOw)
 - [stanfordonline](https://www.youtube.com/user/stanfordonline/playlists)
 - [freeCodeCamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
+
+
+
+﻿<center>
+<p>
+<h1><a href="https://t.me/opencvBrasil">[Grupo de OpenCV no Telegram]</a> </h1>
+</p>
+</center>
+
+## Como contribuir
+
+- Faça um fork para seu repositório pessoal.
+- Faça as alterações que deseja.
+- Faça uma pull request para o repositório principal.
+- Insira um print screen do que você fez.
+- Descreva caso quiser.
+- Aguarde, assim que possível será mergeado a branch principal, o deploy é automático.
+
+
+
+
+Documentação baseada no [MKdocs Material](https://squidfunk.github.io/mkdocs-material/)
+
+
+Para poder desenvover localmente é necessário instalar os pacotes python :
+<br>
+```
+pip install mkdocs mkdocs-material
+```
+<br>
+
+
+Documentação do pacode MkDocs : [MkDocs](https://www.mkdocs.org/getting-started)
+
+
+
+Documentação referência do layout da página :  [MKdocs Material](https://squidfunk.github.io/mkdocs-material/)
+
+
+
+
+
+
 

@@ -26,18 +26,17 @@ nav:
   - Home :
     - Qual o objetivo desse site ?: index.md
     - Disclaimer :  disclaimer.md
+    - Referências : referencias.md
   
   - Base:
+    - O que aprender ? : base/o-que-aprender.md
+    - Programação : iniciantes/programacao.md
     - Algebra Linear :  base/algebra-linear.md
+    - Inglês :  base/ingles.md
   
-  
-  - Ferramentas :
-    - CV : ferramentas/cv.md
-    -  Git :  ferramentas/git.md
-
-
   - Iniciantes :
     - Programação : iniciantes/programacao.md
+    - Instalação do OpenCV C++ :  iniciantes/opencv-cpp.md
     - Processamento de Imagens Digitais : iniciantes/processamento-imagem.md
     - Projetos Iniciantes : iniciantes/projetos-iniciantes.md
     - Aulas Comunidade : iniciantes/aulas-comunidade.md
@@ -45,10 +44,43 @@ nav:
     - Apêndice : iniciantes/apendice.md
   
   - Intermediarios :
-    - index : intermediarios/index.md
+    - index : intermediario/index.md
+    - Cursos:  intermediario/cursos.md
+    - Livros : intermediario/livros.md
+    - Computação Gráfica : intermediario/ComputacaoGrafica.md
+    - Deep Learning : 
+      - Videos : intermediario/DeepLearning.md
+      - Cursos estrangeiros :  intermediario/cursos-deep-learning.md
+      
 
   - Avançados :
+    - Cursos : avancado/Cursos.md
+    - Pipeline de Visão Computacional: avancado/Pipeline.md
+    - Revisões de Artigos: avancado/artigos.md
+    - Livros:  avancado/livros.md
+    - Full Stack Deep Learning :  avancado/FullStackDeepLearning.md
     - Dissertações : avancado/dissertacoes.md
+  
+  - Pipeline: pipeline/Pipeline.md
+  
+
+  - Ferramentas :
+    - Programação:
+      - Python : ferramentas/Python.md
+    - Processamento de Imagens Digitais:
+      - OpenCV :  ferramentas/opencv.md
+      - Mahotas : ferramentas/Mahotas.md
+      - Gluon CV: ferramentas/gluon-cv.md
+      - Point Clouds Library : ferramentas/pcl.md
+    - Deep Learning:
+      - Tensor Flow: ferramentas/tensorflow.md
+      - Pytorch: ferramentas/Pytorch.md
+      - Caffe : ferramentas/Caffe.md
+      - Theano : ferramentas/Theano.md
+    # - CV : ferramentas/cv.md
+    -  Git :  ferramentas/git.md
+    - Media Pipe : ferramentas/mediapipe.md
+    - OpenMMLab : ferramentas/OpenMMLab.md
 
   - Datasets:
     Datasets : datasets/datasets.md
@@ -62,7 +94,8 @@ nav:
 
   - Livros:
     Livros : livros/livros.md
-
+  
+  - Imagens Médicas : https://grupo-opencv-br.github.io/imagens-medicas/
 
 extra:
   version:
