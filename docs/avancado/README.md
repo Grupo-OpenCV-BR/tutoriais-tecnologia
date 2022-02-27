@@ -59,25 +59,14 @@
 
 <br>
 
-# Dissertações Importantes
 
-- [AVALIAÇÃO DO DESEMPENHO DA TÉCNICA STRUCTURE FROM MOTION PARAMAPEAMENTO DE CORREDORES - NATÁLIA CARVALHO DE AMORIM]( https://acervodigital.ufpr.br/bitstream/handle/1884/69364/R%20-%20D%20-%20NATALIA%20CARVALHO%20DE%20AMORIM.pdf)
 
 
 <br>
 
 # Documentação Oficial e libs interessantes.
 
- -  [OpenCV 4.4.0](https://docs.opencv.org/4.4.0/)
- -  [Python 3.8](https://docs.python.org/pt-br/3/)
- -  [Gluon CV](https://gluon-cv.mxnet.io/)
- -  [Point Cloud Library PCL 1.11](https://pointclouds.org/documentation/)
- -  [Tensor Flow](https://www.tensorflow.org/?hl=pt-br)
- -  [Pytorch](https://pytorch.org/docs/stable/index.html)
- -  [Caffe](https://caffe.berkeleyvision.org/)
- -  [Theano](http://deeplearning.net/software/theano/)
- -  [SimpleITK](https://simpleitk.org/)
- -  [Mahotas](https://mahotas.readthedocs.io/en/latest/)
+
 
 
 <br>

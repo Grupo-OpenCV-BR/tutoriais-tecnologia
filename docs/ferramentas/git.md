@@ -1,6 +1,12 @@
 
 ## Git e GitHub
 
-- [Git e Github para iniciantes, Git e Github para iniciantes - Willian Justen de Vasconcellos](https://www.udemy.com/course/git-e-github-para-iniciantes/)
-- [Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal,Curso em Video - Gustavo Guanabara](https://www.youtube.com/watch?v=xEKo29OWILE&list=PLHz_AreHm4dm7ZULPAmadvNhH6vk9oNZA)
-- [How to Use Git and GitHub, Udacity](https://www.youtube.com/watch?v=Ytux4IOAR_s&list=PLAwxTw4SYaPk8_-6IGxJtD3i2QAu5_s_p)
+
+### Curso de Git e GitHub: grátis, prático e sem usar comandos no terminal
+
+<iframe width="1280" height="720" src="https://www.youtube.com/embed/xEKo29OWILE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+- Instrutor : Gustavo Guanabara
+- Site : [Curso em Video](http://www.cursoemvideo.com)
+- Seja um apoiador: [http://cursoemvideo.com/apoie](http://cursoemvideo.com/apoie)
+

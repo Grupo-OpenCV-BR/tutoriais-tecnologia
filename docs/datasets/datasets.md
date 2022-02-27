@@ -1,9 +1,3 @@
-# Tutoriais de Visão Computacional e Processamento de Imagens
-
-- [Grupo de OpenCV Brasil -  Telegram](https://t.me/opencvBrasil)
-
-<br> 
-
 # Datasets
 
 - [INPE Dados Abertos](http://www.inpe.br/dados_abertos/)
@@ -11,7 +5,7 @@
 - [ImageNet](http://image-net.org/download)
 - [UC Irvine](https://archive.ics.uci.edu/ml/index.php)
 - [Visual Data](https://www.visualdata.io/discovery)
-- [HoliCity: A City-Scale Data Platform for Learning Holistic 3D Structures](https://people.eecs.berkeley.edu/~zyc/holicity/)
+- [HoliCity: A City-Scale Data Platform for Learning Holistic 3D Structures](https://holicity.io/)
 - [Machine Learning and AI: Find Datasets](https://guides.library.cmu.edu/machine-learning/datasets)
 - [xView](http://xviewdataset.org/#dataset)
 - [Kinetics, Deepmind](https://deepmind.com/research/open-source/kinetics)
@@ -58,19 +52,3 @@
 - [The Oxford-IIIT Pet Dataset](http://www.robots.ox.ac.uk/~vgg/data/pets/)
 - [Lung Nodule Analysis 2016 - Análise Pulmonar](https://luna16.grand-challenge.org/Data/)
 - [The Multiple Object Tracking Benchmark](https://motchallenge.net/)
-
-<br>
-<br>
-<br>
-
-
-# Referências  
-
-- [Machine Learning Glossary](https://ml-cheatsheet.readthedocs.io/en/latest/index.html)
-
-<br>
-
-## Referências Importantes.
-
-- [Learn OpenCV, Satya Mallick](https://www.learnopencv.com/)
-- [PyImageSearch, Adrian Rosebrock,](https://www.pyimagesearch.com/)

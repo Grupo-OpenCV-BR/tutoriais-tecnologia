@@ -30,6 +30,12 @@ nav:
   - Base:
     - Algebra Linear :  base/algebra-linear.md
   
+  
+  - Ferramentas :
+    - CV : ferramentas/cv.md
+    -  Git :  ferramentas/git.md
+
+
   - Iniciantes :
     - Programação : iniciantes/programacao.md
     - Processamento de Imagens Digitais : iniciantes/processamento-imagem.md
@@ -41,6 +47,12 @@ nav:
   - Intermediarios :
     - index : intermediarios/index.md
 
+  - Avançados :
+    - Dissertações : avancado/dissertacoes.md
+
+  - Datasets:
+    Datasets : datasets/datasets.md
+
   - Artigos:
     - Congressos Importantes: papers/congressos.md
 
@@ -50,9 +62,6 @@ nav:
 
   - Livros:
     Livros : livros/livros.md
-
-  - Ferramentas :
-    -  Git :  ferramentas/git.md
 
 
 extra:
