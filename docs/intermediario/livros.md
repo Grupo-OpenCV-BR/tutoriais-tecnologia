@@ -1,0 +1,22 @@
+
+## Livros Base
+
+- [Computer Vision: Theory and Application - Rick Szeliski](http://szeliski.org/Book/)
+- [PyTorch Computer Vision Cookbook](https://github.com/PacktPublishing/PyTorch-Computer-Vision-Cookbook)
+- [Hands-On Computer Vision with TensorFlow 2](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
+- [Mastering Computer Vision with TensorFlow 2.x](https://github.com/PacktPublishing/Mastering-Computer-Vision-with-TensorFlow-2.0)
+- [Diversos Livros de Machine Learnin, Deep Learning, CV e RL](https://github.com/changwookjun/StudyBook)
+- [Multiple View Geometry in Computer Vision - Richard Hartley and Andrew Zisserman](http://www.robots.ox.ac.uk/~vgg/hzbook/)
+- [Understanding Machine Learning - Shai Shalev-Shwartz and Shai Ben-David](https://www.cs.huji.ac.il/~shais/UnderstandingMachineLearning/copy.html)
+- [Machine Learning and Big Data - Kareem Alkaseer](http://www.kareemalkaseer.com/books/ml/)
+- [Deep Learning, Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+- [Deep Learning Book, Português](http://deeplearningbook.com.br/)
+- [Deep Learning, Ian Goodfellow and Yoshua Bengio and Aaron Courville](https://www.deeplearningbook.org/)
+- [Deep Learning Book, Português](http://deeplearningbook.com.br/)
+- [PyTorch Computer Vision Cookbook](https://github.com/PacktPublishing/PyTorch-Computer-Vision-Cookbook)
+- [Hands-On Computer Vision with TensorFlow 2](https://github.com/PacktPublishing/Hands-On-Computer-Vision-with-TensorFlow-2)
+- [Mastering Computer Vision with TensorFlow 2.x](https://github.com/PacktPublishing/Mastering-Computer-Vision-with-TensorFlow-2.0)
+- [Diversos Livros de Machine Learning, Deep Learning, CV e RL](https://github.com/changwookjun/StudyBook)
+- [Multiple View Geometry in Computer Vision - Richard Hartley and Andrew Zisserman](http://www.robots.ox.ac.uk/~vgg/hzbook/)
+- [Think Stats - Allen B. Downey](https://greenteapress.com/wp/think-stats-2e/)
+- [Think Bayes - Allen B. Downey](https://greenteapress.com/wp/think-bayes/)
