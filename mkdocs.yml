@@ -82,6 +82,10 @@ nav:
     -  Git :  ferramentas/git.md
     - Media Pipe : ferramentas/mediapipe.md
     - OpenMMLab : ferramentas/OpenMMLab.md
+    - Anotação :
+      - CVAT : ferramentas/cvat.md
+      - LabelMe: ferramentas/labelme.me
+      - Hitachi Automotive : ferramentas/hitachi.md
 
   - Datasets:
     Datasets : datasets/datasets.md
