@@ -1,4 +1,11 @@
-# Sites de Conferências Importantes 
+## Revistas imporantes 
+
+- [RSIP Vision](https://www.rsipvision.com/computer-vision-news/)
+
+
+
+
+## Sites de Conferências Importantes 
 
 1.  [ICDAR](https://www.icdar.org/)
     <ul>
