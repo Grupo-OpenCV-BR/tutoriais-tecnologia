@@ -1,6 +1,8 @@
 ## Revistas imporantes 
 
+
 - [RSIP Vision](https://www.rsipvision.com/computer-vision-news/)
+
 
 
 ## Sites de Conferências Importantes 
