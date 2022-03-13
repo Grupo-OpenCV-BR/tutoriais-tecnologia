@@ -92,10 +92,12 @@ nav:
 
   - Artigos:
     - Congressos Importantes: papers/congressos.md
+    - Reconhecimento Facial : papers/facial.md
 
   - Blogs Referências:
     - PyImageSearch : blogs-referencias/pyimagesearch.md
     - Learn Opencv : blogs-referencias/learnopencv.md
+    - Scratcha Pixel : blogs-referencias/scratchapixel.md
 
   - Livros:
     Livros : livros/livros.md
