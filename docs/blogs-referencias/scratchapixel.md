@@ -1,6 +1,6 @@
 
 - [Scratch a Pixel](https://www.scratchapixel.com/)
-- [Github Scratch a Pixel]https://github.com/pgliaskovitis/scratch-a-pixel.git
+- [Github Scratch a Pixel](https://github.com/pgliaskovitis/scratch-a-pixel.git)
 
 ## Mathematics and Physics for Computer Graphics
 Geometry
