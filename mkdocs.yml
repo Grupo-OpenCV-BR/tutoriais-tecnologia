@@ -61,6 +61,7 @@ nav:
     - Livros:  avancado/livros.md
     - Full Stack Deep Learning :  avancado/FullStackDeepLearning.md
     - Dissertações : avancado/dissertacoes.md
+    - 3D : avancado/3D.md
   
   - Pipeline: pipeline/Pipeline.md
   
