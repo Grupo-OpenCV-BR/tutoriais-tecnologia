@@ -1,6 +1,6 @@
 # Pipeline para construção de algoritmos e produtos para Visão Computacional
 
-![](../imagens/1623757864301.jpg)
+![](imagens/1623757864301.jpg)
 
 <br><br>
 Referência : [Nicolas Melo](https://www.linkedin.com/in/n%C3%ADcolas-melo-bsb/)<br>
