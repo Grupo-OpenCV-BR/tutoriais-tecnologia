@@ -35,6 +35,8 @@ nav:
     - Inglês :  base/ingles.md
   
   - Iniciantes :
+    - Introdução : iniciantes/introducao.md
+    - O que é uma Imagem :  iniciantes/imagem.md
     - Programação : iniciantes/programacao.md
     - Aulas Comunidade : iniciantes/aulas-comunidade.md
     - CookBook: iniciantes/CookBook.md
@@ -56,11 +58,11 @@ nav:
 
   - Avançados :
     - Cursos : avancado/Cursos.md
-    - Pipeline de Visão Computacional: avancado/Pipeline.md
     - Revisões de Artigos: avancado/artigos.md
     - Livros:  avancado/livros.md
     - Full Stack Deep Learning :  avancado/FullStackDeepLearning.md
     - Dissertações : avancado/dissertacoes.md
+    - 3D : avancado/3D.md
   
   - Pipeline: pipeline/Pipeline.md
   
@@ -73,6 +75,15 @@ nav:
       - Mahotas : ferramentas/Mahotas.md
       - Gluon CV: ferramentas/gluon-cv.md
       - Point Clouds Library : ferramentas/pcl.md
+    
+    - Anotação de Datasets :
+      - CVAT : ferramentas/cvat.md
+      - LabelMe: ferramentas/labelme.md
+      - Hitachi Automotive : ferramentas/hitachi.md
+      - SUSTechPOINTS : ferramentas/SUSTechPOINTS.md
+      - Roboflow :  ferramentas/roboflow.md
+      - Labelbox : ferramentas/labelbox.md
+    
     - Deep Learning:
       - Tensor Flow: ferramentas/tensorflow.md
       - Pytorch: ferramentas/Pytorch.md
@@ -82,10 +93,7 @@ nav:
     -  Git :  ferramentas/git.md
     - Media Pipe : ferramentas/mediapipe.md
     - OpenMMLab : ferramentas/OpenMMLab.md
-    - Anotação :
-      - CVAT : ferramentas/cvat.md
-      - LabelMe: ferramentas/labelme.me
-      - Hitachi Automotive : ferramentas/hitachi.md
+
 
   - Datasets:
     Datasets : datasets/datasets.md
@@ -117,6 +125,10 @@ extra:
     - icon: fontawesome/brands/discord
       link: https://discord.gg/r2qTpPfPEu
       name: OpenCVismo Brasil
+
+    - icon : fontawesome/brands/slack
+      link : https://signal.group/#CjQKIEcKvAy1OwrdoBsZkyUYl6wkG-II9VJngj2ux0JM7jTIEhBrz3u2IICUoBiex71N5DIf
+      name: Opencvismo Brasil - Bunker 
 
 
   # repo_url: https://github.com/Grupo-OpenCV-BR/imagens-medicas

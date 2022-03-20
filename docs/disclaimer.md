@@ -10,4 +10,4 @@ O objetivo desse trabalho é servir de base para estudos relacionados a Visão C
 <br>
 <br>
 
-<img align="left"  src="https://hypescience.com/wp-content/uploads/2015/02/caminhadas-importancia.gif" alt="OpenCVismo Brasil Telegram">
+<img align="center"  src="https://hypescience.com/wp-content/uploads/2015/02/caminhadas-importancia.gif" alt="OpenCVismo Brasil Telegram">
