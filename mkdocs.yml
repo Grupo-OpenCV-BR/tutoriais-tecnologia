@@ -29,14 +29,16 @@ nav:
     - Referências : referencias.md
   
   - Base:
-    - O que aprender ? : base/o-que-aprender.md
-    - Programação : iniciantes/programacao.md
-    - Algebra Linear :  base/algebra-linear.md
-    - Inglês :  base/ingles.md
+    - O que aprender ? : 
+      - O que aprender : base/o-que-aprender.md
+      - Programação : iniciantes/programacao.md
+      - Algebra Linear :  base/algebra-linear.md
+      - Inglês :  base/ingles.md
+    - Base teórica:
+      - O que é uma Imagem ?:  base/imagem.md
   
   - Iniciantes :
     - Introdução : iniciantes/introducao.md
-    - O que é uma Imagem :  iniciantes/imagem.md
     - Programação : iniciantes/programacao.md
     - Aulas Comunidade : iniciantes/aulas-comunidade.md
     - CookBook: iniciantes/CookBook.md

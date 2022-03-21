@@ -7,6 +7,8 @@ Esse é um repositório mantido de forma voluntária, os dados aqui informados, 
 
 O objetivo desse trabalho é servir de base para estudos relacionados a Visão Computacional, Fotogrametria e Inteligência Artificial,pode e ocorrerá de não ter algo, usamos e pregamos a filosofia do software livre, os contéudos aqui estão livres na internet, ou seja, qualquer um pode usufruir e caso encontre algo errado, só avisar que revisamos e retiramos caso necessário.
 
+
+
 <br>
 <br>
 
