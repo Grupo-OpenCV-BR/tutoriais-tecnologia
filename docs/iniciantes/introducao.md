@@ -24,3 +24,9 @@ Ok, se você chegou até aqui, entendo que quer saber mais, mas calma pequeno ga
 
 Sim, ainda irei falar sobre Machine Learning, Deep Learning e Jingle Learning ( Buzz words da moda), mas primeiro, aprenda a base.
 
+
+
+
+<center>
+<img width="400" height="400"  src="https://i2.wp.com/www.entendaoshomens.com.br/wp-content/uploads/dory-gif.gif" alt="image012">
+</center>
