@@ -11,12 +11,6 @@ Grande parte das referências teóricas foram retiradas do link abaixo.
 
 - [Multiple View Geometry in Computer Vision - Richard Hartley and Andrew Zisserman](http://www.robots.ox.ac.uk/~vgg/hzbook/)
 
-### Curso no Youtube
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/RDkwklFGMfo?list=PLTBdjV_4f-EJn6udZ34tht9EVIW7lbeo4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-Retirado de : [awesome-computer-vision](https://github.com/jbhuang0604/awesome-computer-vision#courses)
-
 
 ## Livros Computer Vision
  
