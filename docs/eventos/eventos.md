@@ -25,5 +25,5 @@ Palestras e Mini cursos:
 * Mini curso: Introdução ao Processamento de Nuvens de Pontos 3D <br> Ministrante: Natalia Amorim, horário 16h - 16h:30min<br>
   **Github do Material: [https://github.com/NataliaCarvalho03/opencvismoday-material](https://github.com/NataliaCarvalho03/opencvismoday-material)<br>
   **Linkedin: [https://www.linkedin.com/in/natalia-carvalho-02901798/](https://www.linkedin.com/in/natalia-carvalho-02901798/)<br>
-  **Dissertação sobre SFM:[https://grupo-opencv-br.github.io/tutoriais-tecnologia/avancado/R-D-NATALIACARVALHODEAMORIM.pdf](AVALIAÇÃO DO DESEMPENHO DA TÉCNICA STRUCTURE FROM MOTION PARA MAPEAMENTO DE CORREDORES - NATÁLIA CARVALHO DE AMORIM)<br>
+  **Dissertação sobre SFM: [https://grupo-opencv-br.github.io/tutoriais-tecnologia/avancado/R-D-NATALIACARVALHODEAMORIM.pdf](AVALIAÇÃO DO DESEMPENHO DA TÉCNICA STRUCTURE FROM MOTION PARA MAPEAMENTO DE CORREDORES - NATÁLIA CARVALHO DE AMORIM)<br>
 
