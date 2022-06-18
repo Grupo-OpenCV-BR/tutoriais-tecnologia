@@ -54,7 +54,7 @@ nav:
     - Cursos:  intermediario/cursos.md
     - Livros : intermediario/livros.md
     - Computação Gráfica : intermediario/ComputacaoGrafica.md
-    - Sensoriamento Remoto : intermediario/sensoriamento_remoto.md
+    - Sensoriamento Remoto : intermediario/sensoriamento-remoto.md
     - Deep Learning : 
       - Videos : intermediario/DeepLearning.md
       - Cursos estrangeiros :  intermediario/cursos-deep-learning.md
