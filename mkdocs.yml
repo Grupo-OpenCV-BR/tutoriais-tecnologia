@@ -27,7 +27,8 @@ nav:
     - Qual o objetivo desse site ?: index.md
     - Disclaimer :  disclaimer.md
     - Referências : referencias.md
-  
+  - Eventos: 
+    - OpenCVismo Day: eventos/eventos.md
   - Base:
     - O que aprender ? : 
       - O que aprender : base/o-que-aprender.md
