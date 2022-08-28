@@ -40,7 +40,7 @@ Palestras e Mini cursos:
   ** Material : [Segmentação de imagens](https://docs.google.com/presentation/d/1FdN0Vci6j3bBwFRFyJjlJPAc6BvcOTYwqmcCBDWE5s0/edit?usp=sharing) <br>
   ** Linkedin : [https://www.linkedin.com/in/andre-emidio/](https://www.linkedin.com/in/andre-emidio/)
   Bibliotecas citadas : OpenCV
-  Funções Citadas :  Houglines, Threshol, inRange
+  Funções Citadas :  HoughCircles, Houglines, Threshol, inRange
 
 
 * Palestra 4: Documentacao de software <br> Palestrante: Melissa Ribeiro, horário: 15:40  - 16h10 <br>
