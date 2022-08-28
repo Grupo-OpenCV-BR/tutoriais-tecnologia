@@ -30,13 +30,17 @@ Palestras e Mini cursos:
 * Palestra 1: Usando AWS Lambda para detecção de objetos <br> Palestrante: Eduardo Rezende horário: 14:00  - 14h30 <br>      
   **Material: [Usando AWS Lambda para detecção de objetos]([Apresentação-CVAT.pdf](https://docs.google.com/presentation/d/115lA-Y_pWGA74HeUlAohR7O7K7LOC0XLa0xTVFI-4OE/edit?usp=sharing))<br>
   **Linkedin: [https://www.linkedin.com/in/eduardomachadorezende/](https://www.linkedin.com/in/eduardomachadorezende/)  <br>
+  Bibliotecas citadas : OpenCV , SAM (AWS)
 
 * Palestra 2: Uso da Visão Computacional em imagens de Drone para Agricultura de Precisão. <br> Palestrante: João Otavio Firigato, horário: 14:30  - 15h00 <br>
   **Linkedin: [https://www.linkedin.com/in/jo%C3%A3o-otavio-firigato-4876b3aa/](https://www.linkedin.com/in/jo%C3%A3o-otavio-firigato-4876b3aa/) <br>
+  Bibliotecas citadas : GeoPandas, Rasterio, Rio Tiler
   
 * Palestra 3 : Segmentacao de imagens.  <br> Palestrante: Andre Emidio, horário: 15:10  - 15h40 <br>
   ** Material : [Segmentação de imagens](https://docs.google.com/presentation/d/1FdN0Vci6j3bBwFRFyJjlJPAc6BvcOTYwqmcCBDWE5s0/edit?usp=sharing) <br>
   ** Linkedin : [https://www.linkedin.com/in/andre-emidio/](https://www.linkedin.com/in/andre-emidio/)
+  Bibliotecas citadas : OpenCV
+  Funções Citadas :  Houglines, Threshol, inRange
 
 
 * Palestra 4: Documentacao de software <br> Palestrante: Melissa Ribeiro, horário: 15:40  - 16h10 <br>
