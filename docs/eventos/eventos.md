@@ -36,6 +36,8 @@ Palestras e Mini cursos:
   **Linkedin: [https://www.linkedin.com/in/jo%C3%A3o-otavio-firigato-4876b3aa/](https://www.linkedin.com/in/jo%C3%A3o-otavio-firigato-4876b3aa/) <br>
   Bibliotecas citadas : GeoPandas, Rasterio, Rio Tiler, QGIS
   Tecnologias Citadas : SLAM, Voo autonomo, UNET, Fotogrametria, Cameras Multiespectrais
+  Referências sobre imagens de Satélite :  [Brazil Data Cube](http://brazildatacube.org/en/data-cube/)
+  Programa da Nvidia para aquisição de GPU para universidades :  [NVIDIA Academic Hardware Grant Program](https://mynvidia.force.com/HardwareGrant/s/Application)
   
 * Palestra 3 : Segmentacao de imagens.  <br> Palestrante: Andre Emidio, horário: 15:10  - 15h40 <br>
   ** Material : [Segmentação de imagens](https://docs.google.com/presentation/d/1FdN0Vci6j3bBwFRFyJjlJPAc6BvcOTYwqmcCBDWE5s0/edit?usp=sharing) <br>
