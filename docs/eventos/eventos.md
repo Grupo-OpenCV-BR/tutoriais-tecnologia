@@ -34,7 +34,8 @@ Palestras e Mini cursos:
 
 * Palestra 2: Uso da Visão Computacional em imagens de Drone para Agricultura de Precisão. <br> Palestrante: João Otavio Firigato, horário: 14:30  - 15h00 <br>
   **Linkedin: [https://www.linkedin.com/in/jo%C3%A3o-otavio-firigato-4876b3aa/](https://www.linkedin.com/in/jo%C3%A3o-otavio-firigato-4876b3aa/) <br>
-  Bibliotecas citadas : GeoPandas, Rasterio, Rio Tiler
+  Bibliotecas citadas : GeoPandas, Rasterio, Rio Tiler, QGIS
+  Tecnologias Citadas : SLAM, Voo autonomo, UNET, Fotogrametria, Cameras Multiespectrais
   
 * Palestra 3 : Segmentacao de imagens.  <br> Palestrante: Andre Emidio, horário: 15:10  - 15h40 <br>
   ** Material : [Segmentação de imagens](https://docs.google.com/presentation/d/1FdN0Vci6j3bBwFRFyJjlJPAc6BvcOTYwqmcCBDWE5s0/edit?usp=sharing) <br>
