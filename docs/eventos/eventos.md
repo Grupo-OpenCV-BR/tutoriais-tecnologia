@@ -34,7 +34,7 @@ Palestras e Mini cursos:
 
 * Palestra 2: Uso da Visão Computacional em imagens de Drone para Agricultura de Precisão. <br> Palestrante: João Otavio Firigato, horário: 14:30  - 15h00 <br>
   **Linkedin: [https://www.linkedin.com/in/jo%C3%A3o-otavio-firigato-4876b3aa/](https://www.linkedin.com/in/jo%C3%A3o-otavio-firigato-4876b3aa/) <br>
-  Bibliotecas citadas : GeoPandas, Rasterio, Rio Tiler, QGIS , Raster Vision
+  Bibliotecas citadas : GeoPandas, Rasterio, Rio Tiler, QGIS , Raster Vision , TorchGeo
   Tecnologias Citadas : SLAM, Voo autonomo, UNET, Fotogrametria, Cameras Multiespectrais
   Referências sobre imagens de Satélite :  [Brazil Data Cube](http://brazildatacube.org/en/data-cube/)
   Programa da Nvidia para aquisição de GPU para universidades :  [NVIDIA Academic Hardware Grant Program](https://mynvidia.force.com/HardwareGrant/s/Application)
