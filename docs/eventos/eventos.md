@@ -47,6 +47,6 @@ Palestras e Mini cursos:
 
 
 * Palestra 4: Documentacao de software <br> Palestrante: Melissa Ribeiro, horário: 15:40  - 16h10 <br>
-  ** Material : <br>
+  ** Material : [Documentação & Escrita técnica.pdf](Documentacao_&_Escrita_tecnica.pdf)<br>
   **Linkedin: [https://www.linkedin.com/in/melissarib/](https://www.linkedin.com/in/melissarib/) <br>
   
