@@ -30,16 +30,24 @@ Palestras e Mini cursos:
 * Palestra 1: Usando AWS Lambda para detecção de objetos <br> Palestrante: Eduardo Rezende horário: 14:00  - 14h30 <br>      
   **Material: [Usando AWS Lambda para detecção de objetos]([Apresentação-CVAT.pdf](https://docs.google.com/presentation/d/115lA-Y_pWGA74HeUlAohR7O7K7LOC0XLa0xTVFI-4OE/edit?usp=sharing))<br>
   **Linkedin: [https://www.linkedin.com/in/eduardomachadorezende/](https://www.linkedin.com/in/eduardomachadorezende/)  <br>
+  Bibliotecas citadas : OpenCV , SAM (AWS)
 
 * Palestra 2: Uso da Visão Computacional em imagens de Drone para Agricultura de Precisão. <br> Palestrante: João Otavio Firigato, horário: 14:30  - 15h00 <br>
   **Linkedin: [https://www.linkedin.com/in/jo%C3%A3o-otavio-firigato-4876b3aa/](https://www.linkedin.com/in/jo%C3%A3o-otavio-firigato-4876b3aa/) <br>
+  **Material: [OPENCV_DAY.pdf](OPENCV_DAY.pdf) <br>
+  Bibliotecas citadas : GeoPandas, Rasterio, Rio Tiler, QGIS , Raster Vision , TorchGeo <br>
+  Tecnologias Citadas : SLAM, Voo autonomo, UNET, Fotogrametria, Cameras Multiespectrais <br>
+  Referências sobre imagens de Satélite :  [Brazil Data Cube](http://brazildatacube.org/en/data-cube/) <br>
+  Programa da Nvidia para aquisição de GPU para universidades :  [NVIDIA Academic Hardware Grant Program](https://mynvidia.force.com/HardwareGrant/s/Application) <br>
   
 * Palestra 3 : Segmentacao de imagens.  <br> Palestrante: Andre Emidio, horário: 15:10  - 15h40 <br>
   ** Material : [Segmentação de imagens](https://docs.google.com/presentation/d/1FdN0Vci6j3bBwFRFyJjlJPAc6BvcOTYwqmcCBDWE5s0/edit?usp=sharing) <br>
-  ** Linkedin : [https://www.linkedin.com/in/andre-emidio/](https://www.linkedin.com/in/andre-emidio/)
+  ** Linkedin : [https://www.linkedin.com/in/andre-emidio/](https://www.linkedin.com/in/andre-emidio/) <br>
+  Bibliotecas citadas : OpenCV <br>
+  Funções Citadas :  HoughCircles, Houglines, Threshol, inRange <br>
 
 
 * Palestra 4: Documentacao de software <br> Palestrante: Melissa Ribeiro, horário: 15:40  - 16h10 <br>
-  ** Material : <br>
+  ** Material : [Documentação & Escrita técnica.pdf](Documentacao_&_Escrita_tecnica.pdf)<br>
   **Linkedin: [https://www.linkedin.com/in/melissarib/](https://www.linkedin.com/in/melissarib/) <br>
   
