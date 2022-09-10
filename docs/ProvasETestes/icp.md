@@ -1,7 +1,8 @@
 ## ICP
 
 
-De forma geral, o ICP é um algoritmo para fazer alinhamento entre dois conjuntos de dados, podem ser 2D, que chamamos de Affine ICP, e o ICP em 3D. No contexto de navegação autônoma, o ICP é usado para determinar a trajetória percorrida entre dois scans de point clouds obtidos de um sensor chamado LiDAR. O LiDAR é uma espécie de radar, vulgarmente falando, que emite feixes de luz para determinar o ponto 3D do ambiente ao seu redor, por isso ele é o Light Radar (LiDAR).
+De forma geral, o ICP é um algoritmo para fazer alinhamento entre dois conjuntos de dados, podem ser 2D, que chamamos de Affine ICP, e o ICP em 3D. No contexto de navegação autônoma, o ICP é usado para determinar a trajetória percorrida entre dois scans de point clouds obtidos de um sensor chamado LiDAR. 
+O LiDAR tem um funcionamento semelhante ao radar, vulgarmente falando, que emite feixes de luz para determinar o ponto 3D do ambiente ao seu redor, por isso ele é o Light Detection and Ranging (LiDAR).
 
  Uma das tecnologias que a gente desenvolve é em odometria de LiDAR para carros autônomos com uma empresa norte-americana. O ICP é utilizado em nosso algoritmo, bem como outros algoritmos e sensores para melhorar a precisão da odometria. Odometria é a tarefa de estimar, em 6 graus de liberdade ou menos, o movimento (translação + rotação) de um corpo rígido. Para isso, podemos usar o LIDAR, Câmera, IMU, GPS, ou combinar todos esses sensores para melhorar a precisão do algoritmo.
 
