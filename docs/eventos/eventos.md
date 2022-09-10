@@ -46,7 +46,6 @@ Palestras e Mini cursos:
   Bibliotecas citadas : OpenCV <br>
   Funções Citadas :  HoughCircles, Houglines, Threshol, inRange <br>
 
-
 * Palestra 4: Documentacao de software <br> Palestrante: Melissa Ribeiro, horário: 15:40  - 16h10 <br>
   ** Material : [Documentação & Escrita técnica.pdf](Documentacao_&_Escrita_tecnica.pdf)<br>
   **Linkedin: [Melissa Ribeiro](https://www.linkedin.com/in/melissarib/) <br>
