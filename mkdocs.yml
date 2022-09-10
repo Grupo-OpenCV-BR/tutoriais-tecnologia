@@ -116,7 +116,9 @@ nav:
   - Livros:
     Livros : livros/livros.md
   
-  - Provas e Testes : ProvasETestes/index.md
+  - Provas e Testes : 
+    - Provas e Testes: ProvasETestes/index.md
+    - ICP : ProvasETestes/icp.md
 
   - Imagens Médicas : https://grupo-opencv-br.github.io/imagens-medicas/
 
