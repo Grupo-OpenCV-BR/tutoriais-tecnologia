@@ -55,3 +55,10 @@ Estimação de Estado existem vários livros, um deles é do [Sebastian Thrun](h
 
 [ICP - A Python module for registering a photo with a database image of the same scene ](https://pypi.org/project/ICP/) <br>
 [Open3D -  A Modern Library for 3D Data Processing](http://www.open3d.org/) <br>
+
+
+## Mini curso: 
+Introdução ao Processamento de Nuvens de Pontos 3D <br> Ministrante: Natalia Amorim<br>
+Github do Material: [https://github.com/NataliaCarvalho03/opencvismoday-material](https://github.com/NataliaCarvalho03/opencvismoday-material)<br>
+Linkedin: [https://www.linkedin.com/in/natalia-carvalho-02901798/](https://www.linkedin.com/in/natalia-carvalho-02901798/)<br>
+Dissertação sobre SFM: [https://grupo-opencv-br.github.io/tutoriais-tecnologia/avancado/R-D-NATALIACARVALHODEAMORIM.pdf](AVALIAÇÃO DO DESEMPENHO DA TÉCNICA STRUCTURE FROM MOTION PARA MAPEAMENTO DE CORREDORES - NATÁLIA CARVALHO DE AMORIM)<br>
