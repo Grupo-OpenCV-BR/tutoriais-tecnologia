@@ -1,0 +1,31 @@
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#cards {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    border-radius: 5px;
+    box-shadow: 7px 7px 13px 0px #ededed;
+    padding: 30px;
+    margin: 30px;
+    transition: all 0.1s ease-out;
+    width: 500px;
+    border-top: 3px solid #4039b5;
+}
+
+.card:hover {
+    transform: translateY(-5px);
+    cursor: pointer;
+}
+
+
+div.mermaid {
+    text-align: center;
+}

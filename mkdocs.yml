@@ -2,7 +2,7 @@ site_name: Tutoriais e Dicas
 
 plugins:
   - search:
-      lang: 
+      lang:
         - en
         - pt
 theme:
@@ -16,111 +16,127 @@ theme:
   icon:
     repo: fontawesome/brands/git-alt
 
-  palette: 
+  palette:
     # scheme: slate
     primary: light green
-    accent: cyan 
+    accent: cyan
+
+
+markdown_extensions:
+  - attr_list
+  - admonition
+  - pymdownx.tasklist
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+
 
 
 nav:
-  - Home :
-    - Qual o objetivo desse site ?: index.md
-    - Disclaimer :  disclaimer.md
-    - Referências : referencias.md
-  - Eventos: 
-    - OpenCVismo Day: eventos/eventos.md
+  - Home:
+      - Qual o objetivo desse site ?: index.md
+      - Disclaimer: disclaimer.md
+      - Referências: referencias.md
+      - Áreas da Visão Computacional : areas.md
+  - Eventos:
+      - OpenCVismo Day: eventos/eventos.md
   - Base:
-    - O que aprender ? : 
-      - O que aprender : base/o-que-aprender.md
-      - Programação : iniciantes/programacao.md
-      - Algebra Linear :  base/algebra-linear.md
-      - Inglês :  base/ingles.md
-    - Base teórica:
-      - O que é uma Imagem ?:  base/imagem.md
-  
-  - Iniciantes :
-    - Introdução : iniciantes/introducao.md
-    - Programação : iniciantes/programacao.md
-    - Aulas Comunidade : iniciantes/aulas-comunidade.md
-    - CookBook: iniciantes/CookBook.md
-    - Processamento de Imagens Digitais : iniciantes/processamento-imagem.md
-    - Instalação do OpenCV C++ :  iniciantes/opencv-cpp.md
-    - Projetos Iniciantes : iniciantes/projetos-iniciantes.md   
-    - Artigos : iniciantes/artigos.md
-    - Apêndice : iniciantes/apendice.md
-  
-  - Intermediarios :
-    - index : intermediario/index.md
-    - Cursos:  intermediario/cursos.md
-    - Livros : intermediario/livros.md
-    - Computação Gráfica : intermediario/ComputacaoGrafica.md
-    - Sensoriamento Remoto : intermediario/sensoriamento-remoto.md
-    - Deep Learning : 
-      - Videos : intermediario/DeepLearning.md
-      - Cursos estrangeiros :  intermediario/cursos-deep-learning.md
-      
+      - O que aprender ?:
+          - O que aprender: base/o-que-aprender.md
+          - Programação: iniciantes/programacao.md
+          - Algebra Linear: base/algebra-linear.md
+          - Inglês: base/ingles.md
+      - Base teórica:
+          - O que é uma Imagem ?: base/imagem.md
 
-  - Avançados :
-    - Introdução : avancado/introducao.md
-    - Cursos : avancado/Cursos.md
-    - Revisões de Artigos: avancado/artigos.md
-    - Livros:  avancado/livros.md
-    - Full Stack Deep Learning :  avancado/FullStackDeepLearning.md
-    - Dissertações : avancado/dissertacoes.md
-    - 3D : avancado/3D.md
-    - Fotogrametria : avancado/fotogrametria.md
-  
+  - Iniciantes:
+      - Introdução: iniciantes/introducao.md
+      - Programação: iniciantes/programacao.md
+      - Aulas Comunidade: iniciantes/aulas-comunidade.md
+      - CookBook: iniciantes/CookBook.md
+      - Processamento de Imagens Digitais: iniciantes/processamento-imagem.md
+      - Instalação do OpenCV C++: iniciantes/opencv-cpp.md
+      - Projetos Iniciantes: iniciantes/projetos-iniciantes.md
+      - Artigos: iniciantes/artigos.md
+      - Apêndice: iniciantes/apendice.md
+
+  - Intermediarios:
+      - index: intermediario/index.md
+      - Cursos: intermediario/cursos.md
+      - Livros: intermediario/livros.md
+      - Computação Gráfica: intermediario/ComputacaoGrafica.md
+      - Sensoriamento Remoto: intermediario/sensoriamento-remoto.md
+      - Deep Learning:
+          - Videos: intermediario/DeepLearning.md
+          - Cursos estrangeiros: intermediario/cursos-deep-learning.md
+
+
+  - Avançados:
+      - Introdução: avancado/introducao.md
+      - Cursos: avancado/Cursos.md
+      - Revisões de Artigos: avancado/artigos.md
+      - Livros: avancado/livros.md
+      - Full Stack Deep Learning: avancado/FullStackDeepLearning.md
+      - Dissertações: avancado/dissertacoes.md
+      - 3D: avancado/3D.md
+      - Fotogrametria: avancado/fotogrametria.md
+
   - Pipeline: pipeline/Pipeline.md
-  
 
-  - Ferramentas :
-    - Programação:
-      - Python : ferramentas/Python.md
-    - Processamento de Imagens Digitais:
-      - OpenCV :  ferramentas/opencv.md
-      - Mahotas : ferramentas/Mahotas.md
-      - Gluon CV: ferramentas/gluon-cv.md
-      - Point Clouds Library : ferramentas/pcl.md
-    
-    - Anotação de Datasets :
-      - CVAT : ferramentas/cvat.md
-      - LabelMe: ferramentas/labelme.md
-      - Hitachi Automotive : ferramentas/hitachi.md
-      - SUSTechPOINTS : ferramentas/SUSTechPOINTS.md
-      - Roboflow :  ferramentas/roboflow.md
-      - Labelbox : ferramentas/labelbox.md
-    
-    - Deep Learning:
-      - Tensor Flow: ferramentas/tensorflow.md
-      - Pytorch: ferramentas/Pytorch.md
-      - Caffe : ferramentas/Caffe.md
-      - Theano : ferramentas/Theano.md
-    # - CV : ferramentas/cv.md
-    -  Git :  ferramentas/git.md
-    - Media Pipe : ferramentas/mediapipe.md
-    - OpenMMLab : ferramentas/OpenMMLab.md
+
+  - Ferramentas:
+      - Programação:
+          - Python: ferramentas/Python.md
+      - Processamento de Imagens Digitais:
+          - OpenCV: ferramentas/opencv.md
+          - Mahotas: ferramentas/Mahotas.md
+          - Gluon CV: ferramentas/gluon-cv.md
+          - Point Clouds Library: ferramentas/pcl.md
+
+      - Anotação de Datasets:
+          - CVAT: ferramentas/cvat.md
+          - LabelMe: ferramentas/labelme.md
+          - Hitachi Automotive: ferramentas/hitachi.md
+          - SUSTechPOINTS: ferramentas/SUSTechPOINTS.md
+          - Roboflow: ferramentas/roboflow.md
+          - Labelbox: ferramentas/labelbox.md
+
+      - Deep Learning:
+          - Tensor Flow: ferramentas/tensorflow.md
+          - Pytorch: ferramentas/Pytorch.md
+          - Caffe: ferramentas/Caffe.md
+          - Theano: ferramentas/Theano.md
+      # - CV : ferramentas/cv.md
+      - Git: ferramentas/git.md
+      - Media Pipe: ferramentas/mediapipe.md
+      - OpenMMLab: ferramentas/OpenMMLab.md
 
 
   - Datasets:
-    Datasets : datasets/datasets.md
+    Datasets: datasets/datasets.md
 
   - Artigos:
-    - Congressos Importantes: papers/congressos.md
-    - Reconhecimento Facial : papers/facial.md
+      - Congressos Importantes: papers/congressos.md
+      - Reconhecimento Facial: papers/facial.md
 
   - Blogs Referências:
-    - PyImageSearch : blogs-referencias/pyimagesearch.md
-    - Learn Opencv : blogs-referencias/learnopencv.md
-    - Scratcha Pixel : blogs-referencias/scratchapixel.md
+      - PyImageSearch: blogs-referencias/pyimagesearch.md
+      - Learn Opencv: blogs-referencias/learnopencv.md
+      - Scratcha Pixel: blogs-referencias/scratchapixel.md
 
   - Livros:
-    Livros : livros/livros.md
-  
-  - Provas e Testes : 
-    - Provas e Testes: ProvasETestes/index.md
-    - ICP : ProvasETestes/icp.md
+    Livros: livros/livros.md
 
-  - Imagens Médicas : https://grupo-opencv-br.github.io/imagens-medicas/
+  - Provas e Testes:
+      - Provas e Testes: ProvasETestes/index.md
+      - ICP: ProvasETestes/icp.md
+
+  - Imagens Médicas: https://grupo-opencv-br.github.io/imagens-medicas/
 
 extra:
   version:
@@ -134,9 +150,9 @@ extra:
       link: https://discord.gg/r2qTpPfPEu
       name: OpenCVismo Brasil
 
-    - icon : fontawesome/brands/slack
-      link : https://signal.group/#CjQKIEcKvAy1OwrdoBsZkyUYl6wkG-II9VJngj2ux0JM7jTIEhBrz3u2IICUoBiex71N5DIf
-      name: Opencvismo Brasil - Bunker 
+    - icon: fontawesome/brands/slack
+      link: https://signal.group/#CjQKIEcKvAy1OwrdoBsZkyUYl6wkG-II9VJngj2ux0JM7jTIEhBrz3u2IICUoBiex71N5DIf
+      name: Opencvismo Brasil - Bunker
 
 
   # repo_url: https://github.com/Grupo-OpenCV-BR/imagens-medicas
