@@ -1,16 +1,37 @@
-name: ci 
+name: ci
 on:
   push:
     branches:
-      - master 
+      - master
       - main
+  pull_request:
+    branches:
+      - master
+      - main
+
+concurrency:
+  group: docs-${{ github.ref }}
+  cancel-in-progress: false
+
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v2
-      - uses: actions/setup-python@v2
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+      - name: Instalar uv
+        uses: astral-sh/setup-uv@c771a70e6277c0a99b617c7a806ffedaca235ff9 # v9.0.0
         with:
-          python-version: 3.x
-      - run: pip install -r requirements.txt
-      - run: mkdocs gh-deploy --force
+          version: "0.12.24"
+          enable-cache: true
+          cache-dependency-glob: uv.lock
+      - name: Instalar Python
+        run: uv python install
+      - name: Instalar dependências travadas
+        run: uv sync --locked
+      - name: Validar documentação
+        run: uv run --locked mkdocs build --strict
+      - name: Publicar no GitHub Pages
+        if: github.event_name == 'push'
+        run: uv run --locked mkdocs gh-deploy --force --strict
