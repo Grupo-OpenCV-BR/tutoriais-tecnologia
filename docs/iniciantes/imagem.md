@@ -44,7 +44,7 @@ Mesmo assim, a pinhole apresenta suas vantagens. Lentes são, de longe, muito ma
 
 
 
-[Fonte:  IF UFRGS](imagens/image012.gifl)
+[Fonte:  IF UFRGS](imagens/image012.gif)
 
 <br>
 <br>

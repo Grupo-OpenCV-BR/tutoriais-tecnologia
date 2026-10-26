@@ -1,32 +1,26 @@
-Partindo do pressuposto em que você saiba programar, sim é importante, irei elencar o que é necessário para ser considerado junior na área de visão computacional.
+# Trilha para iniciantes
 
+Aprenda a representar, transformar e analisar imagens antes de avançar para modelos de aprendizado de máquina.
 
-Para tal irei descrever cada ponto, isso é apenas a visão do escritor, Andre Emidio, sobre qual linha fazer, você é livre para criar seu próprio caminho.
+## Pré-requisitos
 
-Para começar :
+Conhecimentos básicos de programação: variáveis, funções, condições e laços. Se esses conceitos ainda forem novos, comece por [programação](programacao.md). Consulte também os fundamentos de [álgebra linear](../base/algebra-linear.md).
 
-É necessário aprender a usar as ferramentas de processamento de imagens digitais, tais como, [OpenCV](https://opencv.org/) e [Scikit-Image](https://scikit-image.org/), e começar a entender como aplicar filtros, como melhorar caracteristicas da imagem e por ai vai.
+## O que você vai praticar
 
+- Ler imagens e entender sua representação como matrizes de pixels.
+- Manipular imagens com NumPy e OpenCV.
+- Aplicar suavização, limiarização, convolução e detecção de bordas.
+- Combinar essas operações em um pequeno projeto.
 
-Filtros que são legais de saber, 
+## Ordem sugerida
 
-- Gaussian Blur
-- Canny
-- Threshhold
-- Convolution
-  
+1. Entenda [o que é uma imagem](../base/imagem.md).
+2. Estude [processamento de imagens digitais](processamento-imagem.md).
+3. Experimente as [receitas práticas](CookBook.md).
+4. Acompanhe as [aulas da comunidade](aulas-comunidade.md).
+5. Escolha um [projeto para iniciantes](projetos-iniciantes.md).
 
-Aprender algebra linear é importante para fazer manipulações na imagem, uma imagem nada mais é que uma matriz de pixels. Depois conto mais o que é imagem, e como elas nascem e do que vivem ...
+## Próximo passo
 
-Sabendo disso, usar a biblioteca [NumPy](https://numpy.org/) para manipular as imagens será importante.
-
-Ok, se você chegou até aqui, entendo que quer saber mais, mas calma pequeno gafanhoto, ainda terá muita água pra rolar e só necesse processo vai um tempo bom.
-
-Sim, ainda irei falar sobre Machine Learning, Deep Learning e Jingle Learning ( Buzz words da moda), mas primeiro, aprenda a base.
-
-
-
-
-<center>
-<img width="400" height="400"  src="https://i2.wp.com/www.entendaoshomens.com.br/wp-content/uploads/dory-gif.gif" alt="image012">
-</center>
+Quando conseguir explicar e aplicar essas operações em suas próprias imagens, explore a [trilha intermediária](../intermediario/index.md).
